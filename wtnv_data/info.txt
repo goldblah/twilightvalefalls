@@ -1,0 +1,3 @@
+The first line of each file is the episode number and title - format varies, source was inconsistent with titles.
+Text of the episode follows.
+Files have not been cleaned yet.
