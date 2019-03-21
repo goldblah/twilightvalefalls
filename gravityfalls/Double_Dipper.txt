@@ -144,7 +144,7 @@ Soos: Remember dudes, (reading from book) who ever, um, party hardies, what? Ge
 
 Grenda and Candy: Wow!
 
-Pacifica Northwest: (Walks up to Soos with her <a href="/wiki/Pacifica%27s_friends" title="Pacifica's friends">friends) Party crown? I'll take that, thank you very much!
+Pacifica Northwest: (Walks up to Soos with her friends) Party crown? I'll take that, thank you very much!
 
 Mabel: Who's that?
 
@@ -370,7 +370,7 @@ Wendy: I think I'd go with this lunatic. (Points at a short, sweaty man dancing)
 
 Dipper: Ha, ha, ha. (Puts list away) I'd probably go for Stretch over there, uh, because tall people can reach coconuts? (points at a tall man doing the moonwalk)
 
-Wendy: Speaking of tall, wanna see something? (Pulls out a picture with her thumb over one of her <a class="mw-redirect" href="/wiki/Corduroy_brothers" title="Corduroy brothers">brothers) Those are my brothers, and I'm, (Lifting her thumb) boooop.
+Wendy: Speaking of tall, wanna see something? (Pulls out a picture with her thumb over one of her brothers) Those are my brothers, and I'm, (Lifting her thumb) boooop.
 
 Dipper: Ha, you were a freak! (Covers mouth)
 
@@ -618,8 +618,8 @@ End credits.
 
 Soos: (Presses the keyboard buttons one by one. The last one is the thunder) Found it.
 </td></tr>, <tr>
-<th style="text-align: center; background:#748458; font-family:tahoma;"><span class="plainlinks" style="float:left; font-size:10px;"><a href="/wiki/Template:Transcripts" title="Template:Transcripts">V - <a class="text" href="//gravityfalls.fandom.com/wiki/Template:Transcripts?action=edit">E - <a class="text" href="//gravityfalls.fandom.com/wiki/Template:Transcripts?action=history">H - <a href="/wiki/Template_talk:Transcripts" title="Template talk:Transcripts">D</span><span style="font-size:13.5px;">Transcripts of Gravity Falls</span>
-</th></tr>, <th style="text-align: center; background:#748458; font-family:tahoma;"><span class="plainlinks" style="float:left; font-size:10px;"><a href="/wiki/Template:Transcripts" title="Template:Transcripts">V - <a class="text" href="//gravityfalls.fandom.com/wiki/Template:Transcripts?action=edit">E - <a class="text" href="//gravityfalls.fandom.com/wiki/Template:Transcripts?action=history">H - <a href="/wiki/Template_talk:Transcripts" title="Template talk:Transcripts">D</span><span style="font-size:13.5px;">Transcripts of Gravity Falls</span>
+<th style="text-align: center; background:#748458; font-family:tahoma;"><span class="plainlinks" style="float:left; font-size:10px;">V - <a class="text" href="//gravityfalls.fandom.com/wiki/Template:Transcripts?action=edit">E - <a class="text" href="//gravityfalls.fandom.com/wiki/Template:Transcripts?action=history">H - D</span><span style="font-size:13.5px;">Transcripts of Gravity Falls</span>
+</th></tr>, <th style="text-align: center; background:#748458; font-family:tahoma;"><span class="plainlinks" style="float:left; font-size:10px;">V - <a class="text" href="//gravityfalls.fandom.com/wiki/Template:Transcripts?action=edit">E - <a class="text" href="//gravityfalls.fandom.com/wiki/Template:Transcripts?action=history">H - D</span><span style="font-size:13.5px;">Transcripts of Gravity Falls</span>
 </th>, <tr style="background:#748458;">
 <th> <font color="white">Season 1</font>
 </th></tr>, <th> <font color="white">Season 1</font>
@@ -641,8 +641,8 @@ Soos: (Presses the keyboard buttons one by one. The last one is the thunder) Fou
 </th>, <tr style="background: #E0E3C4; color:black;">
 <td> <a href="/wiki/Triangles/Transcript" title="Triangles/Transcript">Triangles | <a href="/wiki/Stan%27s_Brother/Transcript" title="Stan's Brother/Transcript">Stan's Brother | <a href="/wiki/Relation_Shipping/Transcript" title="Relation Shipping/Transcript">Relation Shipping | <a href="/wiki/Laptop_Code/Transcript" title="Laptop Code/Transcript">Laptop Code | <a href="/wiki/The_Ice_Man/Transcript" title="The Ice Man/Transcript">The Ice Man | <a href="/wiki/Medalions/Transcript" title="Medalions/Transcript">Medalions | <a href="/wiki/Government_Agency/Transcript" title="Government Agency/Transcript">Government Agency | <a href="/wiki/6-18/Transcript" title="6-18/Transcript">6-18 | <a href="/wiki/Eyes/Transcript" title="Eyes/Transcript">Eyes | <a href="/wiki/Cryptograms_(short)/Transcript" title="Cryptograms (short)/Transcript">Cryptograms
 </td></tr>, <tr style="background:#748458;">
-<th> <a href="/wiki/Grunkle_Stan%27s_Lost_Mystery_Shack_Interviews" title="Grunkle Stan's Lost Mystery Shack Interviews"><font color="white">Grunkle Stan's Lost Mystery Shack Interviews</font>
-</th></tr>, <th> <a href="/wiki/Grunkle_Stan%27s_Lost_Mystery_Shack_Interviews" title="Grunkle Stan's Lost Mystery Shack Interviews"><font color="white">Grunkle Stan's Lost Mystery Shack Interviews</font>
+<th> <font color="white">Grunkle Stan's Lost Mystery Shack Interviews</font>
+</th></tr>, <th> <font color="white">Grunkle Stan's Lost Mystery Shack Interviews</font>
 </th>, <tr style="background: #E0E3C4; color:black;">
 <td> <a href="/wiki/Interview_-_Jake_Short/Transcript" title="Interview - Jake Short/Transcript">Interview - Jake Short/Transcript | <a href="/wiki/Interview_-_Tyrell_Jackson_Williams/Transcript" title="Interview - Tyrell Jackson Williams/Transcript">Interview - Tyrell Jackson Williams/Transcript
 </td></tr>, <tr style="background:#748458;">

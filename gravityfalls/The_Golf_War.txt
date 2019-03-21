@@ -318,7 +318,7 @@ Soos: Sure are a lot of stars out tonight...
 
 Stan: (Sits up.) Well, this is gettin' weird. (Leaves.)
 
-Preston Northwest: (The <a class="mw-redirect" href="/wiki/Northwest_family%27s_car" title="Northwest family's car">Northwest car pulls up.) But now remember, Pacifica, winning is everything.
+Preston Northwest: (The Northwest car pulls up.) But now remember, Pacifica, winning is everything.
 
 Priscilla Northwest: Oh, oh, and also looks. Winning and looks. (Looks at self in mirror.)
 
@@ -581,8 +581,8 @@ Miner Lilliputtian: NEVER!
 <b>Credits</b>: NLMXQWWN IIZ LZFNF (REMEMBER BIG HENRY decoded from Vigenère. The key is WHATEVS.)
 </td></tr>, <th><b>Credits</b>
 </th>, <tr>
-<th style="text-align: center; background:#748458; font-family:tahoma;"><span class="plainlinks" style="float:left; font-size:10px;"><a href="/wiki/Template:Transcripts" title="Template:Transcripts">V - <a class="text" href="//gravityfalls.fandom.com/wiki/Template:Transcripts?action=edit">E - <a class="text" href="//gravityfalls.fandom.com/wiki/Template:Transcripts?action=history">H - <a href="/wiki/Template_talk:Transcripts" title="Template talk:Transcripts">D</span><span style="font-size:13.5px;">Transcripts of Gravity Falls</span>
-</th></tr>, <th style="text-align: center; background:#748458; font-family:tahoma;"><span class="plainlinks" style="float:left; font-size:10px;"><a href="/wiki/Template:Transcripts" title="Template:Transcripts">V - <a class="text" href="//gravityfalls.fandom.com/wiki/Template:Transcripts?action=edit">E - <a class="text" href="//gravityfalls.fandom.com/wiki/Template:Transcripts?action=history">H - <a href="/wiki/Template_talk:Transcripts" title="Template talk:Transcripts">D</span><span style="font-size:13.5px;">Transcripts of Gravity Falls</span>
+<th style="text-align: center; background:#748458; font-family:tahoma;"><span class="plainlinks" style="float:left; font-size:10px;">V - <a class="text" href="//gravityfalls.fandom.com/wiki/Template:Transcripts?action=edit">E - <a class="text" href="//gravityfalls.fandom.com/wiki/Template:Transcripts?action=history">H - D</span><span style="font-size:13.5px;">Transcripts of Gravity Falls</span>
+</th></tr>, <th style="text-align: center; background:#748458; font-family:tahoma;"><span class="plainlinks" style="float:left; font-size:10px;">V - <a class="text" href="//gravityfalls.fandom.com/wiki/Template:Transcripts?action=edit">E - <a class="text" href="//gravityfalls.fandom.com/wiki/Template:Transcripts?action=history">H - D</span><span style="font-size:13.5px;">Transcripts of Gravity Falls</span>
 </th>, <tr style="background:#748458;">
 <th> <font color="white">Season 1</font>
 </th></tr>, <th> <font color="white">Season 1</font>
@@ -604,8 +604,8 @@ Miner Lilliputtian: NEVER!
 </th>, <tr style="background: #E0E3C4; color:black;">
 <td> <a href="/wiki/Triangles/Transcript" title="Triangles/Transcript">Triangles | <a href="/wiki/Stan%27s_Brother/Transcript" title="Stan's Brother/Transcript">Stan's Brother | <a href="/wiki/Relation_Shipping/Transcript" title="Relation Shipping/Transcript">Relation Shipping | <a href="/wiki/Laptop_Code/Transcript" title="Laptop Code/Transcript">Laptop Code | <a href="/wiki/The_Ice_Man/Transcript" title="The Ice Man/Transcript">The Ice Man | <a href="/wiki/Medalions/Transcript" title="Medalions/Transcript">Medalions | <a href="/wiki/Government_Agency/Transcript" title="Government Agency/Transcript">Government Agency | <a href="/wiki/6-18/Transcript" title="6-18/Transcript">6-18 | <a href="/wiki/Eyes/Transcript" title="Eyes/Transcript">Eyes | <a href="/wiki/Cryptograms_(short)/Transcript" title="Cryptograms (short)/Transcript">Cryptograms
 </td></tr>, <tr style="background:#748458;">
-<th> <a href="/wiki/Grunkle_Stan%27s_Lost_Mystery_Shack_Interviews" title="Grunkle Stan's Lost Mystery Shack Interviews"><font color="white">Grunkle Stan's Lost Mystery Shack Interviews</font>
-</th></tr>, <th> <a href="/wiki/Grunkle_Stan%27s_Lost_Mystery_Shack_Interviews" title="Grunkle Stan's Lost Mystery Shack Interviews"><font color="white">Grunkle Stan's Lost Mystery Shack Interviews</font>
+<th> <font color="white">Grunkle Stan's Lost Mystery Shack Interviews</font>
+</th></tr>, <th> <font color="white">Grunkle Stan's Lost Mystery Shack Interviews</font>
 </th>, <tr style="background: #E0E3C4; color:black;">
 <td> <a href="/wiki/Interview_-_Jake_Short/Transcript" title="Interview - Jake Short/Transcript">Interview - Jake Short/Transcript | <a href="/wiki/Interview_-_Tyrell_Jackson_Williams/Transcript" title="Interview - Tyrell Jackson Williams/Transcript">Interview - Tyrell Jackson Williams/Transcript
 </td></tr>, <tr style="background:#748458;">

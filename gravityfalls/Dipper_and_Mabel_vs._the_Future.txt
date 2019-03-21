@@ -76,7 +76,7 @@ Ford: (Wiping off his face, which is smoking, with a towel) Oh yes, I'm fine. I 
 
 Dipper: But your face is on fire.
 
-Ford: Yes, it's much faster than shaving. Now, listen, Dipper. I have a very important mission, and you are the only one who can help me. (Pulls out the rift) Remember the rift in dimensional space-time I showed you? It's cracking. (Points at crack) This is what Bill has been waiting for. If it breaks, it will cause reality as we know it to completely unravel. A hypothetical and catastrophic event I call <a href="/wiki/Weirdmageddon_(event)" title="Weirdmageddon (event)">Weirdmageddon.
+Ford: Yes, it's much faster than shaving. Now, listen, Dipper. I have a very important mission, and you are the only one who can help me. (Pulls out the rift) Remember the rift in dimensional space-time I showed you? It's cracking. (Points at crack) This is what Bill has been waiting for. If it breaks, it will cause reality as we know it to completely unravel. A hypothetical and catastrophic event I call Weirdmageddon.
 
 Dipper stares at a blackboard Ford has drawn up, detailing the finer points of Weirdmageddon.
 
@@ -165,7 +165,7 @@ Ford: Sometimes the strangest things in the world are right under our noses. (pu
 Dipper.: (backs away a few steps as Ford detaches the opening) Whoa!
 </td></tr>, <th>Dipper.
 </th>, <tr>
-<th>Ford: I used to raid this thing for parts for years. Where do you think I got the materials to build my <a class="mw-redirect" href="/wiki/Universe_portal" title="Universe portal">portal?
+<th>Ford: I used to raid this thing for parts for years. Where do you think I got the materials to build my portal?
 
 Dipper: You...I...words... not working for mouth.
 
@@ -205,10 +205,9 @@ Grenda: Marius is flying me out to Austria to hang out in his castle or whatever
 
 Mabel: You're gonna be out of town for my birthday? But at least you can come, right, Candy?
 
-<a class="mw-redirect" href="/wiki/Candy" title="Candy">Candy: Sorry, Mabel. My parents send me to music camp this time of year. There is no escape from music camp.
-</td></tr>, <th><a class="mw-redirect" href="/wiki/Candy" title="Candy">Candy
-</th>, <tr>
-<th>Mabel: So neither of you are gonna be at my birthday party? And you won't be able to wish me goodbye at the end of the summer?
+Candy: Sorry, Mabel. My parents send me to music camp this time of year. There is no escape from music camp.
+
+Mabel: So neither of you are gonna be at my birthday party? And you won't be able to wish me goodbye at the end of the summer?
 
 Candy: I'm sorry, Mabel.
 
