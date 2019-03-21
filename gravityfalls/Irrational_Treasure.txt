@@ -1,4 +1,4 @@
-<td>The episode begins with the twins eating Corncornos inside Stan's car. Stan is honking while Mabel attaches nachos from her chip bag to her ears.
+The episode begins with the twins eating Corncornos inside Stan's car. Stan is honking while Mabel attaches nachos from her chip bag to her ears.
 
 Mabel Pines: Haha! Nacho earrings. I'm hilarious!
 
@@ -342,7 +342,7 @@ Mabel: Aah!
 
 They dodge the darts and fall down a path that leads them to a small set-up filled with confidential, historical information.
 
-Mabel: It's a treasure trove of historic-y, secret-y things. (Picks up a top-secret document. The first page is about the secret of Abraham Lincoln's hat, and shows a picture of <a class="extiw" href="http://en.wikipedia.org/wiki/Abraham_Lincoln" title="wikipedia:Abraham Lincoln">Lincoln in his top hat in one picture, and him without his top hat, with a hand sticking out of the top of his head, in the other. Mabel looks at the next page, where there is a picture of <a class="extiw" href="http://en.wikipedia.org/wiki/Benjamin_Franklin" title="wikipedia:Benjamin Franklin">Benjamin Franklin wearing earrings, and the sub-caption says that he was secretly a woman) Oh, man! Ben Franklin secretly was a woman!
+Mabel: It's a treasure trove of historic-y, secret-y things. (Picks up a top-secret document. The first page is about the secret of Abraham Lincoln's hat, and shows a picture of Lincoln in his top hat in one picture, and him without his top hat, with a hand sticking out of the top of his head, in the other. Mabel looks at the next page, where there is a picture of Benjamin Franklin wearing earrings, and the sub-caption says that he was secretly a woman) Oh, man! Ben Franklin secretly was a woman!
 
 Dipper: (Finding and picking up a document titled "Northwest Cover-up") Hey, jackpot! Now we'll find out who the real town founder was. (Reading from document:) "Let it be here recorded that Nathaniel Northwest, fabled founder of Gravity Falls, was, in fact, a fraud...as well as a waste-shoveling village idiot"? (Laughs) Oh, bad news for Pacifica. Wait'll the papers hear about this!
 
@@ -377,27 +377,20 @@ Dipper: Shh! Mabel.
 Reel starts, revealing a government official in an office.
 
 Govt. official: If you're watching this, then you are one of eight people in these United States with clearance to view this information. In fact, I myself will be shot as soon as the filming is complete. (Looks offscreen) --What? No? Ho! Well, that's a relief! (Looks back at the camera) Of all of America's secrets, the most embarrassing was that of Quentin Trembley: The eighth-and-a-half president of the United States.
-</td></tr>, <th>Govt. official
-</th>, <tr>
-<th>Dipper and Mabel: President?
+
+Dipper and Mabel: President?
 
 Mabel: Eighth-and-a-half?
 
 Govt. official: After winning the 1837 election in a landslide, (On the video, a picture of Quentin Trembley standing next to the other presidential candidates is shown. A landslide kills the other candidates) Quentin Trembley quickly gained a reputation as America's silliest president.
 He waged war on pancakes, appointed six babies to the supreme court, and issued the de-pants-ipation proclamation. His state of the union speech was even worse.
 
-</td></tr>, <th>Govt. official
-</th>, <tr>
-<th>Trembley (reenacted recording): The only thing we have to fear is gigantic, man-eating spiders!
-</td></tr>, <th>Trembley (reenacted recording)
-</th>, <tr>
-<th>Govt. official: He was kicked out of office and escaped to an uncharted valley he named Gravity Falls, after plummeting into it at high speed.
-Trembley's shameful term was erased from history and officially replaced by <a class="extiw" href="http://en.wikipedia.org/wiki/William_Henry_Harrison" title="wikipedia:William Henry Harrison">William Henry Harrison as President and local nobody Nathaniel Northwest as founder of Gravity Falls.
+Trembley (reenacted recording): The only thing we have to fear is gigantic, man-eating spiders!
+
+Govt. official: He was kicked out of office and escaped to an uncharted valley he named Gravity Falls, after plummeting into it at high speed. Trembley's shameful term was erased from history and officially replaced by William Henry Harrison as President and local nobody Nathaniel Northwest as founder of Gravity Falls.
 The whereabouts of president Trembley's body are unknown.
 
-</td></tr>, <th>Govt. official
-</th>, <tr>
-<th>Blubs: Until now.
+Blubs: Until now.
 
 Cut to Quentin Trembley, who is encased in an amber-colored rectangle.
 
@@ -522,13 +515,9 @@ Blubs and Durland: Silly Water Fun Slides in Grand Lakes, Michigan!
 Cut to Dipper, Mabel, and Trembley outside of the train. Durling and Blubs are in the train wearing Hawaiian shirts and wave to the three as the train departs.
 
 
-Blubs and Durland
-: Bye-bye! Bye!
-</td></tr>, <th>
-Blubs and Durland
+Blubs and Durland: Bye-bye! Bye!
 
-</th>, <tr>
-<th>Trembley: (Once the train is gone, he gets to a knee and looks at Mabel) You've done a great service to your country, Mabel. As thanks, I'd like to make you an official U.S. congressman. (Unfolds a black top-hat and hands it to Mabel)
+Trembley: (Once the train is gone, he gets to a knee and looks at Mabel) You've done a great service to your country, Mabel. As thanks, I'd like to make you an official U.S. congressman. (Unfolds a black top-hat and hands it to Mabel)
 
 Mabel: (Puts on hat) I'm legalizing everything!
 
@@ -540,7 +529,7 @@ Trembley: You dear boy are on your way to unlocking the mysteries of this great 
 
 Cut to Trembley and the twins later on, back in Gravity Falls. Trembley is telling a story.
 
-Trembley: And then he chased me around and spanked me with a paddle for, like, three hours. Bottom line, <a class="extiw" href="http://en.wikipedia.org/wiki/George_Washington" title="wikipedia:George Washington">George Washington was a jerk.
+Trembley: And then he chased me around and spanked me with a paddle for, like, three hours. Bottom line, George Washington was a jerk.
 
 Mabel: A-greed!
 
