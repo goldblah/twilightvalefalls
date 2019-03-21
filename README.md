@@ -16,8 +16,8 @@ RG's publications were in 2016, 2018, 2019
     - started @ begining in 2018
    - Spring/Summer 2018 during concise writing course
 
-Categories for Named Entity Recognition
-    -Chr
-    -CrAn
-    -Loc
-    -Org
+## Categories for Named Entity Recognition
+   - Chr
+   - CrAn
+   - Loc
+   - Org
