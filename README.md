@@ -22,3 +22,11 @@ RG's publications were in 2016, 2018, 2019
    - Loc
    - Org
    - Misc
+
+## Timeline of R's Stories
+    - Gray, Yellow, Red (Aug. 2015)
+    - I Scream, You Scream (Dec. 2015)
+    - Irony (Dec. 2015)
+    - The Job (Feb. 2019)
+    - After Life (May 2018)
+    - Mobster (Apr. 2018)
