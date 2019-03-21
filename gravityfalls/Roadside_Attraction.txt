@@ -1,4 +1,4 @@
-<td>Episode opens with the Mystery Shack, to the back of Grunkle Stan's RV. Grunkle Stan puts a bumper sticker on it that says "CAUTION: SILVERFOX AT THE WHEEL" as Soos helps pack it up.
+Episode opens with the Mystery Shack, to the back of Grunkle Stan's RV. Grunkle Stan puts a bumper sticker on it that says "CAUTION: SILVERFOX AT THE WHEEL" as Soos helps pack it up.
 
 Stan Pines: (Hums) Nice. And don't forget bug spray! It's perfect for spraying in the face of hitchhikers.
 
@@ -131,9 +131,8 @@ Emma Sue: (playfully:) You are the worst. (softly punches Dipper)
 Dipper: You bet I am. I'm bad, Emma. Kind of a jerk.
 
 Emma Sue's Father: Emma, come on! We have to get to Canada before your mother gives birth!
-</td></tr>, <th>Emma Sue's Father
-</th>, <tr>
-<th>Emma Sue: It's a long story.
+
+Emma Sue: It's a long story.
 
 Dipper: Maybe you could tell me sometime.
 
