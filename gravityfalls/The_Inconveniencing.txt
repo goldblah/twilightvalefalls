@@ -1,4 +1,4 @@
-<td>Opens to Gompers baaing at the rooftop of the Mystery Shack; cuts to Dipper and Mabel in the Shack. Mabel is sitting on a spinning globe.
+Opens to Gompers baaing at the rooftop of the Mystery Shack; cuts to Dipper and Mabel in the Shack. Mabel is sitting on a spinning globe.
 
 Dipper Pines: Mabel, do you believe in ghosts?
 
@@ -155,9 +155,8 @@ Robbie: (Looks at his bean in confusion)
 (Shows that Wendy was the one who threw the bean; Wendy straightens up from her throwing position, smiling)
 
 Wendy's friends: Wendy!
-</td></tr>, <th>Wendy's friends
-</th>, <tr>
-<th>Nate: Wendy! Wendy!
+
+Nate: Wendy! Wendy!
 
 Wendy: Hey guys! These are my pals from work, Mabel and Dipper.
 
@@ -366,9 +365,8 @@ Cut to Mabel's hallucination, she is in a valley that changes colors, and crazy 
 Flavor pup: (Speaks gibberish)
 
 Flavor pup #2: Would you like to eat my candy paws?
-</td></tr>, <th>Flavor pup #2
-</th>, <tr>
-<th>Mabel: Of course you little angel! (Grabs the paw and chews it)
+
+Mabel: Of course you little angel! (Grabs the paw and chews it)
 
 Cut to real life; Mabel is chewing on air.
 
@@ -481,8 +479,6 @@ Dipper: (Picks up her phone, reading from it:) Status update: AAAAUUUUUGGGGGGHHH
 Tambry: (Appears on security camera screen) AAAAAAAAAAAAH!
 
 Teens and Dipper: AAAAUUGGH!
-
-(Commercial break)
 
 Tambry: AAAAH!!
 
@@ -611,9 +607,8 @@ Pa: Always sassafrassin' costumers with their boomy boxes and disrespectful shor
 Ma: (In the flashback, hugs Pa) The lyrics, they were so, hateful!
 
 90's Teens: (In the flashback, dancing to the rap:) Homework's whack, and so are rules! Tuckin' in you're shirt's for fools!
-</td></tr>, <th>90's Teens
-</th>, <tr>
-<th>Pa: (In the flashback:) NO!
+
+Pa: (In the flashback:) NO!
 
 Ma: It was so shocking, we were stricken down with double heart attacks!
 
@@ -643,7 +638,6 @@ I do! I do!
 So go up and greet your Mammy mammy mammy!
 Hi there! Hi there!
 So march march march around the daisies... (Wendy smiles; this is the cutest thing she had ever seen)
-
 
 Pa: Yes, Yes! More! MORE!
 
