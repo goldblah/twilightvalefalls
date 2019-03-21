@@ -615,9 +615,8 @@ Sandy: (over answering machine) Meow
 Lazy Susan: (over answering machine) Mr. Cat-face, now it's your turn to say-
 
 Mr. Cat-face: (over answering machine) MOOWW!!!!!
-</td></tr>, <th>Mr. Cat-face
-</th>, <tr>
-<th>Lazy Susan: (over answering machine) Mr. Cat-face!
+
+Lazy Susan: (over answering machine) Mr. Cat-face!
 
 Mr. Cat-face: (over answering machine) MEEEEEOWW!!!!
 
