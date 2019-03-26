@@ -30,3 +30,20 @@ RG's publications were in 2016, 2018, 2019
     - The Job (Feb. 2019)
     - After Life (May 2018)
     - Mobster (Apr. 2018)
+
+## HAYLEY'S FINAL CATS FOR NER
+    - ::CHR:FirstInitialLastName
+    - ::CrAn
+    - ::LOC
+    - ::ORG
+    - ::MISC:SpecificCategories
+        - :TEXT
+        - :TV
+        - :FOOD
+        - :VEH
+        - :GAME
+        - :ELEC
+        - :SN
+        - :GOV
+        - :FT
+        - :MS
