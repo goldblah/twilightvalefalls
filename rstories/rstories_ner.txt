@@ -1,0 +1,31 @@
+reckless::CHR
+death::CHR
+gustaf::CHR
+sacred object::MISC
+object::MISC
+srvr-2k16::CHR
+dr. roberts::CHR
+srvr::CHR
+marigold roberts::CHR
+david::CHR
+spruce pine::LOC
+north carolina::LOC
+ted::CHR
+marco::CHR
+nasa::ORG
+hut::LOC
+earth::LOC
+moon::LOC
+rover::MISC:VEH
+clarke::CHR
+froot loops::MISC:FOOD
+cap'n crunch::MISC:FOOD
+frosted flakes::MISC:FOOD
+quinn::CHR
+miles quinn::CHR
+mercy::CHR
+joseph::CHR
+joe::CHR
+fat man::CHR
+driver::CHR
+thin man::CHR
