@@ -1,12 +1,13 @@
 reckless::CHR
 death::CHR
 gustaf::CHR
-sacred object::MISC
-object::MISC
-srvr-2k16::CHR
-dr. roberts::CHR
-srvr::CHR
-marigold roberts::CHR
+sacred object::MISC:SO
+object::MISC:SO
+srvr-2k16::CHR:SRVR
+dr. roberts::CHR:MRoberts
+srvr::CHR:SRVR
+marigold roberts::CHR:MRoberts
+doc::CHR:MRoberts
 david::CHR
 spruce pine::LOC
 north carolina::LOC
@@ -21,11 +22,11 @@ clarke::CHR
 froot loops::MISC:FOOD
 cap'n crunch::MISC:FOOD
 frosted flakes::MISC:FOOD
-quinn::CHR
-miles quinn::CHR
+quinn::CHR:MQuinn
+miles quinn::CHR:MQuinn
 mercy::CHR
-joseph::CHR
-joe::CHR
-fat man::CHR
-driver::CHR
-thin man::CHR
+joseph::CHR:Joe
+joe::CHR:Joe
+fat man::CHR:Dri
+driver::CHR:Dri
+thin man::CHR:Joe
