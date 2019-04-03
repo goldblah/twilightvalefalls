@@ -174,7 +174,6 @@ Gravity Falls Pool::LOC
 Gravity Falls Public Access TV::MISC:TV
 Gravity Falls Swap Meet::LOC
 Gravity Falls water tower::LOC
-Gravity Falls::CHR:PNorthwest
 Gravity Malls::LOC
 Greasy's Diner::LOC
 Greg Valentino::CHR:GValentino
@@ -211,7 +210,7 @@ Interdimensional rift::MISC:SN
 Island Head Beast::CrAn
 Isosceles Monster::CHR:BCipher
 Jack-o'-melons::MISC
-Jackie the Elf-Bandit::CHR:PNorthwest
+Jackie the Elf-Bandit::CHR:PaNorthwest
 Janice Valentino::CHR:JValentino
 Jorge::CHR:JOR
 Journal #1::MISC:TEXT
@@ -281,7 +280,7 @@ Merpeople::CrAn
 Mijo::CHR:SRamirez
 Mind control ties::MISC:ELEC
 Mindscape::LOC
-Miss ::CHR:PNorthwest
+Miss Gravity Falls::CHR:PaNorthwest
 Mommy::CHR:Cmother
 Moneybags Magazine::MISC:TEXT
 Mr. Mystery::CHR:SPines
@@ -313,12 +312,12 @@ Old Man McGucket::CHR:OMcGucket
 One Eyed Demon::CHR:BCipher
 Overly Sensitive Owl::MISC:FOOD
 Owl Trowel::MISC
-PLATINUMPAZ::CHR:PNorthwest
-Pacifica Northwest::CHR:PNorthwest
+PLATINUMPAZ::CHR:PaNorthwest
+Pacifica Northwest::CHR:PaNorthwest
 Pain Hole::LOC
 Paladin Radmaster::CHR:SRamirez
 Paper Jam Dipper::CrAn
-Party Queen::CHR:PNorthwest
+Party Queen::CHR:PaNorthwest
 Percepshrooms::MISC:SN
 Petting Zoo::LOC
 Pick-up Lines::MISC:TEXT
@@ -333,8 +332,8 @@ Pool Mobile::MISC:VEH
 Pop Pop::CHR:PPop
 Possum Breath::CHR:OMcGucket
 President's Key::ORG
-Presto::CHR:PNorthwest
-Preston Northwest::CHR:PNorthwest
+Presto::CHR:PrNorthwest
+Preston Northwest::CHR:PrNorthwest
 Prison Bubble::LOC
 Probabilitizzle::CHR:PAnnoying
 Probabilitor the Annoying::CHR:PAnnoying
