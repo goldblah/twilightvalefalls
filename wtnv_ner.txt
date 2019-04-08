@@ -1,0 +1,289 @@
+Abandoned Mine Shaft::LOC:Abandoned Mine Shaft
+Abandoned Missile Silo::LOC:Abandoned Missile Silo
+Antiques Mall::LOC:Antiques Mall
+Arby's::LOC:Arby's
+Barista District::LOC:Barista District
+Beatrix Loman Memorial Meditation Zone::LOC:Beatrix Loman Memorial Meditation Zone
+Big Rico's Pizza::LOC:Big Rico's Pizza
+City Hall::LOC:City Hall
+Coyote Corners::LOC:Coyote Corners
+Dark Owl Records::LOC:Dark Owl Records
+Dark Planet::LOC:Dark Planet
+Desert Bluffs::LOC:Desert Bluffs
+Desert Flower Bowling Alley and Arcade Fun Complex::LOC:Desert Flower Bowling Alley and Arcade Fun Complex
+Desert Pines::LOC:Desert Pines
+Elementary School Playground::LOC:Elementary School Playground
+Flaky-Os::LOC:Flaky-Os
+Franchia::LOC:Franchia
+Gino's Italian Dining Experience and Grill and Bar::LOC:Gino's Italian Dining Experience and Grill and Bar
+Haunted Baseball Diamond::LOC:Haunted Baseball Diamond
+Hidden Gorge::LOC:Hidden Gorge
+Hole in the Vacant Lot Out Back of the Ralphs::LOC:Hole in the Vacant Lot Out Back of the Ralphs
+Jackie's Pawn Shop::LOC:Jackie's Pawn Shop
+Jerry's Tacos::LOC:Jerry's Tacos
+Juvenile Detention Center::LOC:Juvenile Detention Center
+King City::LOC:King City
+Louie's Music Shop::LOC:Louie's Music Shop
+Luftnarp::LOC:Luftnarp
+Mission Grove Park::LOC:Mission Grove Park
+Museum of Forbidden Technologies::LOC:Museum of Forbidden Technologies
+National Guard Station and KFC Combo Store::LOC:National Guard Station and KFC Combo Store
+Night Vale::LOC:Night Vale
+Night Vale Community College::LOC:Night Vale Community College
+Night Vale Community Radio::LOC:Night Vale Community Radio
+Night Vale Elementary Multipurpose Room::LOC:Night Vale Elementary Multipurpose Room
+Night Vale Elementary School::LOC:Night Vale Elementary School
+Night Vale Hall of Public Records::LOC:Night Vale Hall of Public Records
+Night Vale Harbor and Waterfront Recreation Area::LOC:Night Vale Harbor and Waterfront Recreation Area
+Night Vale High School::LOC:Night Vale High School
+Night Vale in-universe::LOC:Night Vale in-universe
+Night Vale Petting Zoo::LOC:Night Vale Petting Zoo
+Night Vale Public Library::LOC:Night Vale Public Library
+Night Vale Recreation Center::LOC:Night Vale Recreation Center
+Night Vale School System::LOC:Night Vale School System
+Night Vale Stadium::LOC:Night Vale Stadium
+Night Vale Zoo::LOC:Night Vale Zoo
+Nulogorsk::LOC:Nulogorsk
+Old Night Vale Opera House::LOC:Old Night Vale Opera House
+Old Town::LOC:Old Town
+Old Town Drawbridge::LOC:Old Town Drawbridge
+Pine Cliff::LOC:Pine Cliff
+Pinkberry::LOC:Pinkberry
+Post Office::LOC:Post Office
+Pulsar Development Facility::LOC:Pulsar Development Facility
+Pyramid::LOC:Pyramid
+Radon Canyon::LOC:Radon Canyon
+Ralphs::LOC:Ralphs
+Red Mesa::LOC:Red Mesa
+Sand Wastes::LOC:Sand Wastes
+Scrublands::LOC:Scrublands
+Secret Underground Missile Testing Site::LOC:Secret Underground Missile Testing Site
+Shambling Orphan::LOC:Shambling Orphan
+Shame::LOC:Shame
+Skeleton Gorge::LOC:Skeleton Gorge
+Stan's Pawn Shop::LOC:Stan's Pawn Shop
+Stone Meadow::LOC:Stone Meadow
+Svitz::LOC:Svitz
+The Car Lot::LOC:The Car Lot
+The Dark Box::LOC:The Dark Box
+The Dog Park::LOC:The Dog Park
+The Empty Desert::LOC:The Empty Desert
+The House That Doesn't Exist::LOC:The House That Doesn't Exist
+The Other Empty Desert::LOC:The Other Empty Desert
+The Smithwick House::LOC:The Smithwick House
+The Underground City::LOC:The Underground City
+The Whispering Forest::LOC:The Whispering Forest
+Tourniquet::LOC:Tourniquet
+Used and Discount Sporting Goods Store::LOC:Used and Discount Sporting Goods Store
+Whispering Forest::LOC:Whispering Forest
+White Sand Ice Cream Shop::LOC:White Sand Ice Cream Shop
+City Council::ORG:City Council
+Desert Bluffs Cacti::ORG:Desert Bluffs Cacti
+Freemasons::ORG:Freemasons
+Illuminati::ORG:Illuminati
+Night Vale Boy Scouts::ORG:Night Vale Boy Scouts
+Night Vale Business Association::ORG:Night Vale Business Association
+Night Vale Department of Public Safety::ORG:Night Vale Department of Public Safety
+Night Vale Green Market Co-op::ORG:Night Vale Green Market Co-op
+Night Vale Highway Department::ORG:Night Vale Highway Department
+Night Vale Marine Biologist's Association::ORG:Night Vale Marine Biologist's Association
+Night Vale Medical Board::ORG:Night Vale Medical Board
+Night Vale Mountain Lions::ORG:Night Vale Mountain Lions
+Night Vale or Nothing::ORG:Night Vale or Nothing
+Night Vale Psychological Association::ORG:Night Vale Psychological Association
+Night Vale Sanitation Department::ORG:Night Vale Sanitation Department
+Night Vale Scorpions::ORG:Night Vale Scorpions
+Night Vale Tourism Board::ORG:Night Vale Tourism Board
+PTA::ORG:PTA
+Sheriff's Secret Police::ORG:Sheriff's Secret Police
+Vague, Yet Menacing, Government Agency::ORG:Vague, Yet Menacing, Government Agency
+World Government::ORG:World Government
+Air-Filled Earth Society::ORG:Air-Filled Earth Society
+Night Vale Book Club::ORG:Night Vale Book Club
+Double Secret Police::ORG:Double Secret Police
+Night Vale Girl Scouts::ORG:Night Vale Girl Scouts
+Greater Night Vale Realtor Association::ORG:Greater Night Vale Realtor Association
+Joyous Congregation of the Smiling God::ORG:Joyous Congregation of the Smiling God
+Little League::ORG:Little League
+Soundproof Old Town::ORG:Soundproof Old Town
+The Onyx Fist::ORG:The Onyx Fist
+Night Vale Veterans of a Blood Space War Association::ORG:Night Vale Veterans of a Blood Space War Association
+Abby::CHAR:Abby
+Abby Palmer::CHR:Abby
+Adriano Copiello::CHR:ACopiello
+Agatha Oglivy::CHR:AOglivy
+Alondra Ortiz::CHR:AOrtiz
+Angels::CHR:Angels
+Annette Traylor::CHR:ATraylor
+Apache Tracker::CHR:ATracker
+Arnie Goldblum::CHR:AGoldblum
+Barks Ennui::CHR:BEnnui
+Basimah Bashara::CHR:BBashara
+Betty Lucero::CHR:BLucero
+Big Rico::CHAR:BRico
+Rico::CHR:BRico
+Brandy Lance::CHR:BLance
+Cactus Jane::CHR:CJane
+Cal Palmer::CHAR:CPalmer
+Cal::CHR:CPalmer
+Camilla Cortez::CHR:CCortez
+Carlos the Scientist::CHR:CScientist
+Cecil Gershwin Palmer::CHR:CPalmer
+Cecil's mother::CHR:Cmother
+Chad Bowinger::CHR:CBowinger
+Intern Chad::CHR:CBowinger
+The boy with the baseball cap pulled down over his face::CHR:CBowinger
+The boy in the hoodie::CHR:CBowinger
+Characters::CHR:Characters
+Charles::CHR:Charles
+Charlie Blair::CHR:CBlair
+Chelsea Dubinski::CHR:CDubinski
+Claire::CHR:Claire
+Dale Salazar::CHR:DSalazar
+Dan Cardozo::CHR:DCardozo
+Dana Cardinal::CHR:DCardinal
+Darryl Ramirez::CHAR:DRamirez
+Wordsmith::CHR:DRamirez
+Deangelo Flynn::CHR:DFlynn
+Deb::CHR:Deb
+Diane Crayton::CHR:DCrayton
+Donald Penebaker::CHR:DPenebaker
+Donovan::CHR:Donovan
+Earl Harlan::CHR:EHarlan
+Felicia Good::CHR:FGood
+Fey::CHR:Fey
+Frances Donaldson::CHR:FDonaldson
+Frank Chen::CHR:FChen
+Glow Cloud::CHR:GCloud
+Enormous Glow Cloud::CHR:GCloud
+Glow Cloud::CHR:GCloud
+Glow Cloud's child::CHR:Gchild
+Gordon::CHR:Gordon
+Gordon Moreno::CHR:GMoreno
+Hadassah McDaniels::CHR:HMcDaniels
+Harrison Kipp::CHR:HKipp
+Hierarchy of the Angels::CHR:HAngels
+Hiram McDaniels::CHR:HMcDaniels
+Hooded Figures::CHR:HFigures
+Hugh Jackman::CHR:HJackman
+Huntokar::CHAR:Huntokar
+The Destroyer::CHR:Huntokar
+Intern Kareem::CHR:IKareem
+Intern Maureen::CHR:IMaureen
+Jackie Fierro::CHR:JFierro
+Jake Camp::CHR:JCamp
+Jake Smithwick::CHR:JSmithwick
+Jamillah::CHR:Jamillah
+Janice::CHR:Janice
+My little Girl::CHR:Janice
+Janice Rio::CHAR:JRio
+Janice Rio, from down the street::CHR:JRio
+Jeremy Godfrey::CHR:JGodfrey
+Joanna Rey::CHR:JRey
+Joel Eisenberg::CHR:JEisenberg
+John Peters::CHR:JPeters
+The Farmer::CHR:JPeters
+John Peters::CHR:JPeters
+Josh Crayton::CHR:JCrayton
+Juanita Jefferson::CHR:JJefferson
+Junius Duncan::CHR:JDuncan
+Kevin::CHR:Kevin
+Khoshekh::CHR:Khoshekh
+Lacy::CHR:Lacy
+Larry Leroy::CHAR:LLeroy
+Larry Leroy, out on the edge of town::CHR:LLeroy
+Laura::CHR:Laura
+Lauren Mallard::CHR:LMallard
+Leann Hart::CHR:LHart
+Lee Marvin::CHR:LMarvin
+Leonard Burton::CHR:LBurton
+LGBT characters::CHR:Lcharacters
+Lisa Smithwick::CHR:LSmithwick
+Lorelei Alvarez::CHR:LAlvarez
+Louie Blasko::CHR:LBlasko
+Lucia Tereschenko::CHR:LTereschenko
+Lucinda Fierro::CHR:LFierro
+Lusia::CHR:Lusia
+Lutrice Beaumont::CHR:LBeaumont
+Mab::CHR:Mab
+Madeline LeFleur::CHR:MLeFleur
+Maggie Penebaker::CHR:MPenebaker
+Maliq Herrera::CHR:MHerrera
+Marcus Vanston::CHR:MVanston
+Martin McCaffrey::CHR:MMcCaffrey
+Martin McCaffry::CHR:MMcCaffry
+Mayors of Night Vale::CHR:MVale
+Megan Wallaby::CHR:MWallaby
+Melony Pennington::CHR:MPennington
+Michael Sandero::CHR:MSandero
+Michelle Nguyen::CHR:MNguyen
+Miriam Adelman::CHR:MAdelman
+Missy Wilks::CHR:MWilks
+Mr. Smithwick::CHR:MSmithwick
+Mrs. Smithwick::CHR:MSmithwick
+Nazr al-Mujaheed::CHR:Nal-Mujaheed
+Nick Teller::CHR:NTeller
+Nilanjana Sikdar::CHAR:NSikdar
+Nils::CHR:NSikdar
+Nina Gordon::CHR:NGordon
+Old Woman Josie::CHR:OJosie
+Josie Ortiz::CHR:OJosie
+Josefina Ortiz::CHR:OJosie
+Otherworldly Children::CHR:OChildren
+Pamela Winchell::CHR:PWinchell
+Pastor Munn::CHR:PMunn
+Paul Birmingham::CHR:PBirmingham
+Prince Reynolds::CHR:PReynolds
+Roger Harlan::CHR:RHarlan
+Roger Singh::CHR:RSingh
+Sabina::CHR:Sabina
+Sarah Sultan::CHR:SSultan
+Scientists of Night Vale::CHR:SVale
+Sheriff of Night Vale::CHR:SVale
+Sheriff Sam::CHR:SSam
+Sigrid Borg::CHR:SBorg
+Simone Rigadeau::CHR:SRigadeau
+Siobhan Azdak::CHR:SAzdak
+Station Management::CHR:SManagement
+Station Management (character)::CHR:S(character)
+Stephanie::CHR:Stephanie
+Steve Carlsberg::CHAR:SCarlsberg
+Steven Eugene Carlsberg::CHR:SCarlsberg
+Strangers::CHR:Strangers
+Susan Escobar::CHR:SEscobar
+Suzanne Thurgood::CHR:SThurgood
+Tamika Flynn::CHR:TFlynn
+Teddy Williams::CHAR:TWilliams
+Dr. Williams::CHR:TWilliams
+Telly::CHAR:Telly
+Telly the Barber::CHR:Telly
+Terry Williams::CHR:TWilliams
+The Beagle Puppy::CHR:TPuppy
+The Computer::CHR:TComputer
+The Distant Prince::CHR:TPrince
+The Faceless Old Woman::CHR:TWoman
+The Faceless Old Woman Who Secretly Lives In Your Home::CHR:TWoman
+The Man in the Tan Jacket::CHR:TJacket
+Evan McIntyre::CHR:TJacket
+Emmett::CHR:TJacket
+Everett::CHR:TJacket
+Elliott::CHR:TJacket
+The Masked Army::CHR:TArmy
+Mission Grove Park::CHR:MPark
+The Smiling God::CHR:TGod
+The Woman from Italy (character)::CHR:T(character)
+Them::CHR:Them
+Thomas Charles Fleming::CHR:TFleming
+Trish Hidge::CHR:THidge
+Tristan Cortez::CHR:TCortez
+Troy Walsh::CHR:TWalsh
+Voiced Characters::CHR:VCharacters
+You (character)::CHR:Y(character)
+You (listener)::CHR:Y(listener)
+Antiques::CrAn:Antiques
+Deer::CrAn:Deer
+Dragons::CrAn:Dragons
+Khoshekh::CrAn:Khoshekh
+Lucky::CrAn:Lucky
+Plastic Bags::CrAn:PBags
+Spiders::CrAn:Spiders
