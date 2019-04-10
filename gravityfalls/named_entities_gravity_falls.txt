@@ -1,56 +1,56 @@
-.GIFfany::CrAn
+.GIFfany::CrAn:.GIFfany
 1001 Yuk 'Em Ups::MISC:TEXT
-412 Gopher Road::LOC
-8 Ball::CrAn
-Abandoned church::LOC
-Abandoned mines::LOC
-Abuelita's house::LOC
+412 Gopher Road::LOC:412 Gopher Road
+8 Ball::CrAn:8 Ball
+Abandoned church::LOC:Abandoned church
+Abandoned mines::LOC:Abandoned mines
+Abuelita's house::LOC:Abuelita's house
 Adhesive::MISC:SN
 Afficionado Afficionado Magazine::MISC:TEXT
-Amorphous Shape::CrAn
+Amorphous Shape::CrAn:Amorphous Shape
 Andrew "8-Ball" Alcatraz::CHR:SPines
 Anomalous Phenomena::MISC:TEXT
-Aoshima::CrAn
-Aquatic restaurant::LOC
-Arachnimorphs::CrAn
-Arcade::LOC
-Archibald Corduroy::CrAn
+Aoshima::CrAn:Aoshima
+Aquatic restaurant::LOC:Aquatic restaurant
+Arachnimorphs::CrAn:Arachnimorphs
+Arcade::LOC:Arcade
+Archibald Corduroy::CrAn:Archibald Corduroy
 Avoid Eye Contact Monthly::MISC:TEXT
-Axolotl::CrAn
-BABBA::ORG
+Axolotl::CrAn:Axolotl
+BABBA::ORG:Groups and organizations
 Baby Fights::MISC:TV
-Baby pterodactyl::CrAn
+Baby pterodactyl::CrAn:Baby pterodactyl
 Baldy feller::CHR:BIvan
 Baron Num Nums High Flyin' Beans::MISC:FOOD
 Bat-eries::MISC:GAME
 Bats Biker::CHR:BBiker
 Bear-O::MISC:GAME
-BeeblyBoop's Videogames::LOC
+BeeblyBoop's Videogames::LOC:BeeblyBoop's Videogames
 Beeblyboop::MISC:ELEC
 Believe in Yourself::MISC:TV
 Bicepticus::MISC:GAME
-Big Gunz Laser Tag::LOC
-Big Henry::CrAn
-Bigfoot::CrAn
-Bijou Theater::LOC
+Big Gunz Laser Tag::LOC:Big Gunz Laser Tag
+Big Henry::CrAn:Big Henry
+Bigfoot::CrAn:Bigfoot
+Bijou Theater::LOC:Bijou Theater
 Bill Cipher::CHR:BCipher
-Bill Cipher::CrAn
+Bill Cipher::CrAn:Bill Cipher
 Bill's Throne::MISC:SN
 Bipper::CHR:BCipher
 Bipper::CHR:DPines
 Blendin Blandin::CHR:BBlandin
-Blind Eye Society::ORG
+Blind Eye Society::ORG:Groups and organizations
 Blind Ivan::CHR:BIvan
 Bobby Renzobbi::CHR:BRenzobbi
 Bobby::CHR:BRenzobbi
-Bowling alley::LOC
+Bowling alley::LOC:Bowling alley
 Boy Band King::CHR:EBratsman
 Boyish Dan::CHR:MDan
 Boyz World::MISC:TV
 Brainiac::CHR:FPines
-British dog man::CrAn
+British dog man::CrAn:British dog man
 Bro-Bro::CHR:DPines
-Bunker::LOC
+Bunker::LOC:Bunker
 Burrito Bites::MISC:FOOD
 Cackling skulls::MISC:GAME
 Calling All Boys: Preteen Edition::MISC:GAME
@@ -60,43 +60,43 @@ Cap'n Brain-Teasers' Fun Maze::MISC:TEXT
 Carla McCorkle::CHR:CMcCorkle
 Cash Scratch Fever::MISC:GAME
 Cash Wheel::MISC:TV
-Celestabellebethabelle::CrAn
+Celestabellebethabelle::CrAn:Celestabellebethabelle
 Charlie's mother::CHR:Cmother
 Cheese Boodles::MISC:FOOD
 Chipackerz::MISC:FOOD
 Chips::MISC:FOOD
-Chutzpar::CrAn
-Circle Park::LOC
-Clay monsters::CrAn
-Claymore Manor::LOC
+Chutzpar::CrAn:Chutzpar
+Circle Park::LOC:Circle Park
+Clay monsters::CrAn:Clay monsters
+Claymore Manor::LOC:Claymore Manor
 Cloning copy machine::MISC:SN
 Conflict Boat::MISC:GAME
 Cookie Chips::MISC:FOOD
 Cool Dudes::MISC:TEXT
-Cooler monster::CrAn
-Corduroy cabin::LOC
-Corn Maze::LOC
+Cooler monster::CrAn:Cooler monster
+Corduroy cabin::LOC:Corduroy cabin
+Corn Maze::LOC:Corn Maze
 Corncornos::MISC:FOOD
-Crash Site Omega::LOC
-Creature with 88 different faces::CrAn
-Creatures of Weirdmageddon::CrAn
+Crash Site Omega::LOC:Crash Site Omega
+Creature with 88 different faces::CrAn:Creature with 88 different faces
+Creatures of Weirdmageddon::CrAn:Creatures of Weirdmageddon
 Crone Alone Magazine::MISC:TEXT
-Cursed Doors::CrAn
+Cursed Doors::CrAn:Cursed Doors
 Cursed Doors::MISC:SN
-Cursed Egyptian super termites::CrAn
-Cyclocks::CrAn
-Cycloptopus::CrAn
+Cursed Egyptian super termites::CrAn:Cursed Egyptian super termites
+Cyclocks::CrAn:Cyclocks
+Cycloptopus::CrAn:Cycloptopus
 Dancy Pants Revolution::MISC:GAME
-Darlene::CrAn
-Dinosaurs::CrAn
+Darlene::CrAn:Darlene
+Dinosaurs::CrAn:Dinosaurs
 Dipper Pines::CHR:DPines
-Dipper clones::CrAn
+Dipper clones::CrAn:Dipper clones
 Dipper the Destructor::CHR:DPines
 Dipper's black light::MISC:ELEC
 Dipper::CHR:DPines
-Dippy Fresh::CrAn
+Dippy Fresh::CrAn:Dippy Fresh
 Dipstick::CHR:DPines
-Disembodied hands::CrAn
+Disembodied hands::CrAn:Disembodied hands
 Dopper::CHR:DPines
 Dr. Funtimes::CHR:DPines
 Dr. Punch Head, M.D.::MISC:GAME
@@ -105,288 +105,199 @@ Duck-tective::MISC:TV
 Dundgren::CHR:DUN
 Dungeons, Dungeons, and More Dungeons: Rules Vol. 1::MISC:TEXT
 Dungeons, Dungeons, and More Dungeons::MISC:GAME
-Dusk 2 Dawn::LOC
-Eggbert Elementary::LOC
+Dusk 2 Dawn::LOC:Dusk 2 Dawn
+Eggbert Elementary::LOC:Eggbert Elementary
 Electron Carpet::MISC:SN
-Enchanted Forest::LOC
+Enchanted Forest::LOC:Enchanted Forest
 Ergman Bratsman::CHR:EBratsman
-Ernesto::CrAn
+Ernesto::CrAn:Ernesto
 Evil Triangle::CHR:BCipher
 Explosion muffin::MISC
 F::CHR:OMcGucket
-Fairies::CrAn
+Fairies::CrAn:Fairies
 Fairy dust::MISC:SN
-Fearamid::LOC
+Fearamid::LOC:Fearamid
 Fiddlesworth::CHR:OMcGucket
 Fight Fighters::MISC:GAME
 Fighty Hogg::MISC:GAME
 First Person Puncher::MISC:GAME
-Flavor Pups::CrAn
-Floating Eyeballs::CrAn
-Flying skulls::CrAn
-Footbot::CrAn
+Flavor Pups::CrAn:Flavor Pups
+Floating Eyeballs::CrAn:Floating Eyeballs
+Flying skulls::CrAn:Flying skulls
+Footbot::CrAn:Footbot
 Ford Pines::CHR:FPines
-Ford's mindscape::LOC
+Ford's mindscape::LOC:Ford's mindscape
 Fordsie::CHR:FPines
-Franz::CrAn
+Franz::CrAn:Franz
 Free Pizza Guy::CHR:PGuy
 Free sample potion::MISC:MS
 Fully Clothed Women::MISC:TEXT
-Future city::LOC
+Future city::LOC:Future city
 Gabe Bensen::CHR:GBensen
 Ghost Harassers::MISC:TV
-Ghosts::CrAn
-Giant Vampire Bats::CrAn
-Giant eyeball::CrAn
+Ghosts::CrAn:Ghosts
+Giant Vampire Bats::CrAn:Giant Vampire Bats
+Giant eyeball::CrAn:Giant eyeball
 Gideon Gleeful::CHR:GGleeful
 Gideon-bot::MISC:ELEC
-Gleeful residence::LOC
-Gleeful's Auto Sale::LOC
-Globnar stadium::LOC
-Globnar::LOC
+Gleeful residence::LOC:Gleeful residence
+Gleeful's Auto Sale::LOC:Gleeful's Auto Sale
+Globnar stadium::LOC:Globnar stadium
+Globnar::LOC:Globnar
 Globnar::MISC:GAME
-Gnome forest::LOC
-Gnomes::CrAn
+Gnome forest::LOC:Gnome forest
+Gnomes::CrAn:Gnomes
 Goat::CHR:GOM
 Gobblewonker robot::MISC:ELEC
-Gobblewonker::CrAn
+Gobblewonker::CrAn:Gobblewonker
 Gold Chains For Old Men Magazine::MISC:TEXT
 Goldie::MISC:ELEC
 Gompers::CHR:GOM
-Government base::LOC
+Government base::LOC:Government base
 Government vehicle::MISC:VEH
 Grandpa the Kid::MISC:TV
-Granny Sweetkin's Yarnball::LOC
+Granny Sweetkin's Yarnball::LOC:Granny Sweetkin's Yarnball
 Granny Sweetkin's Yarnball::MISC
-Gravity Falls Cemetery::LOC
-Gravity Falls Church::LOC
-Gravity Falls Civic Center and Buffet::LOC
-Gravity Falls Forest::LOC
-Gravity Falls Gossiper::LOC
+Gravity Falls Cemetery::LOC:Gravity Falls Cemetery
+Gravity Falls Church::LOC:Gravity Falls Church
+Gravity Falls Civic Center and Buffet::LOC:Gravity Falls Civic Center and Buffet
+Gravity Falls Forest::LOC:Gravity Falls Forest
+Gravity Falls Gossiper::LOC:Gravity Falls Gossiper
 Gravity Falls Gossiper::MISC:TEXT
-Gravity Falls High School::LOC
-Gravity Falls Junkyard::LOC
-Gravity Falls Library::LOC
-Gravity Falls Maximum Security Prison::LOC
-Gravity Falls Museum of History::LOC
-Gravity Falls Police Department::ORG
-Gravity Falls Pool::LOC
+Gravity Falls High School::LOC:Gravity Falls High School
+Gravity Falls Junkyard::LOC:Gravity Falls Junkyard
+Gravity Falls Library::LOC:Gravity Falls Library
+Gravity Falls Maximum Security Prison::LOC:Gravity Falls Maximum Security Prison
+Gravity Falls Museum of History::LOC:Gravity Falls Museum of History
+Gravity Falls Police Department::ORG:Groups and organizations
+Gravity Falls Pool::LOC:Gravity Falls Pool
 Gravity Falls Public Access TV::MISC:TV
-Gravity Falls Swap Meet::LOC
-Gravity Falls water tower::LOC
-Gravity Malls::LOC
-Greasy's Diner::LOC
+Gravity Falls Swap Meet::LOC:Gravity Falls Swap Meet
+Gravity Falls water tower::LOC:Gravity Falls water tower
+Gravity Falls::CHR:PNorthwest
+Gravity Malls::LOC:Gravity Malls
+Greasy's Diner::LOC:Greasy's Diner
 Greg Valentino::CHR:GValentino
-Gremloblin::CrAn
+Gremloblin::CrAn:Gremloblin
 Grenda::CHR:GRE
 Grendo::CHR:GRE
-Griffin::CrAn
+Griffin::CrAn:Griffin
 Grunkle Ford::CHR:FPines
 Grunkle Stan::CHR:SPines
 Gummy Koalas::MISC:FOOD
 Hal Forrester::CHR:SPines
 Hambone::CHR:MPines
-Hand Witch Mountain::LOC
-Hand Witch::CrAn
-Headquarters of the Blind Eye Society::LOC
-Hectorgon::CrAn
+Hand Witch Mountain::LOC:Hand Witch Mountain
+Hand Witch::CrAn:Hand Witch
+Headquarters of the Blind Eye Society::LOC:Headquarters of the Blind Eye Society
+Hectorgon::CrAn:Hectorgon
 Height-altering crystals::MISC:SN
-Hermanos Brothers::LOC
-Hide Behind::CrAn
+Hermanos Brothers::LOC:Hermanos Brothers
+Hide Behind::CrAn:Hide Behind
 Hippie Tea::MISC:FOOD
 Hoo-Ha's Jamboree::MISC:ELEC
-Hot Elf::CrAn
+Hot Elf::CrAn:Hot Elf
 Hotpants::CHR:CMcCorkle
 How To DJ R-R-R-R-ight::MISC:TEXT
 Huckabone::CHR:MBefufftlefumpter
 Huggy Wuvvy Tummy Bundle::MISC
 Human-sized hamster balls::MISC
-Impossibeast::CrAn
+Impossibeast::CrAn:Impossibeast
 Indie Fuzz::MISC:TEXT
-Infinetentiary::LOC
+Infinetentiary::LOC:Infinetentiary
 Infinite pizza slice::MISC:FOOD
 Infinity sided die::MISC:SN
 Interdimensional rift::MISC:SN
-Island Head Beast::CrAn
+Island Head Beast::CrAn:Island Head Beast
 Isosceles Monster::CHR:BCipher
 Jack-o'-melons::MISC
-Jackie the Elf-Bandit::CHR:PaNorthwest
+Jackie the Elf-Bandit::CHR:PNorthwest
 Janice Valentino::CHR:JValentino
 Jorge::CHR:JOR
 Journal #1::MISC:TEXT
 Journal #2::MISC:TEXT
 Journal #3::MISC:TEXT
 Ker-Prank'd::MISC:TV
-Keyhole::CrAn
+Keyhole::CrAn:Keyhole
 King of Mini-Golf::CHR:MKing
-Kryptos::CrAn
+Kryptos::CrAn:Kryptos
 Lady Mabelton::CHR:MPines
 Lady Swimwear::MISC:TEXT
-Lake Gravity Falls::LOC
+Lake Gravity Falls::LOC:Lake Gravity Falls
 Laptop::MISC:ELEC
 Laser arm cannons::MISC:FT
-Lava lamp shaped creature::CrAn
-Laws of Gravity Falls::ORG
+Lava lamp shaped creature::CrAn:Lava lamp shaped creature
+Laws of Gravity Falls::ORG:Governmental
 Lazy Susan::CHR:LSusan
-Leaderaur::CrAn
-Lefty robot::CrAn
+Leaderaur::CrAn:Leaderaur
+Lefty robot::CrAn:Lefty robot
 Lefty robot::MISC:ELEC
 Li'l Gideon's Big House!::MISC:TV
 Li'l Gideon::CHR:GGleeful
-Lilliputtian head knight::CrAn
-Lilliputtian pirate captain::CrAn
-Lilliputtians::CrAn
-List of Alternate Universe Versions of Mabel::CrAn
-List of creatures::CrAn
-List of minor dimensions::LOC
-Little green men::CrAn
+Lilliputtian head knight::CrAn:Lilliputtian head knight
+Lilliputtian pirate captain::CrAn:Lilliputtian pirate captain
+Lilliputtians::CrAn:Lilliputtians
+List of Alternate Universe Versions of Mabel::CrAn:List of Alternate Universe Versions of Mabel
+List of creatures::CrAn:List of creatures
+List of minor dimensions::LOC:List of minor dimensions
+Little green men::CrAn:Little green men
 Lolph::CHR:LOL
-Lookout Point::LOC
+Lookout Point::LOC:Lookout Point
 Loser candy::MISC:FOOD
 Love God's van::MISC:VEH
-Love God::CrAn
-Love Patrol Alpha::ORG
+Love God::CrAn:Love God
+Love Patrol Alpha::ORG:Groups and organizations
 Love potions::MISC:SN
-Ma and Pa Duskerton::CrAn
+Ma and Pa Duskerton::CrAn:Ma and Pa Duskerton
 Mabel Pines::CHR:MPines
 Mabel juice::MISC:FOOD
 Mabel's grappling hook::MISC:MS
 Mabel's rom-coms::MISC:TV
 Mabel's sweaters::MISC
-Mabeland inhabitants::CrAn
-Magnet guns::MISC:ELEC
-Mailbox::MISC:SN
-Main Street::LOC
-Man 16::CHR:BBiker
-Man Cave::LOC
-Manliness Tester::MISC:GAME
-Manly Dan::CHR:MDan
-Manotaurs::CrAn
-Master Mabel::CHR:MPines
-Master of Puppets::CHR:GBensen
-Mattress King::CHR:MKing
-Mattress Prince's mattress store::LOC
-Mattress Prince::CHR:MKing
-May May and the Hogg A.M.::MISC
-Mayor Befufftlefumpter::CHR:MBefufftlefumpter
-Mc suck it::CHR:OMcGucket
-Meat Cute::LOC
-Memory Gun::MISC:ELEC
-Memory tube::MISC
-Meow o'clock::MISC:ELEC
-Mermando::CHR:MER
-Mermando::CrAn
-Merpeople::CrAn
-Mijo::CHR:SRamirez
-Mind control ties::MISC:ELEC
-Mindscape::LOC
-Miss Gravity Falls::CHR:PaNorthwest
-Mommy::CHR:Cmother
-Moneybags Magazine::MISC:TEXT
-Mr. Mystery::CHR:SPines
-Mr. Mystery::CHR:SRamirez
-Mr. Upsidedownington::CHR:MPines
-Mr. Zzz's Mattresses::LOC
-Muse::CHR:BCipher
-Mystery Cart::MISC:VEH
-Mystery Fair::LOC
-Mystery Mountain::LOC
-Mystery Shack deed::MISC:MS
-Mystery Shack items::MISC:MS
-Mystery Shack::LOC
-Mystic Amulet::MISC:SN
-NORT::MISC:GAME
-Nearly Almost Dead But Not Quite!::MISC:TV
-Negative Twelve Dollar Bill::ORG
-Nightmare Realm::LOC
-Northwest Cover-up::ORG
-Northwest Manor::LOC
-Northwest Mud Flaps::LOC
-Northwest family's car::MISC:VEH
-Nyarf::MISC:GAME
-Nyumalums::MISC:FOOD
-Nyums::MISC:FOOD
-Octavia::CrAn
-Ogres::CrAn
-Old Man McGucket::CHR:OMcGucket
-One Eyed Demon::CHR:BCipher
-Overly Sensitive Owl::MISC:FOOD
-Owl Trowel::MISC
-PLATINUMPAZ::CHR:PaNorthwest
-Pacifica Northwest::CHR:PaNorthwest
-Pain Hole::LOC
-Paladin Radmaster::CHR:SRamirez
-Paper Jam Dipper::CrAn
-Party Queen::CHR:PaNorthwest
-Percepshrooms::MISC:SN
-Petting Zoo::LOC
-Pick-up Lines::MISC:TEXT
-Pine Tree::CHR:DPines
-Pines Pawns::LOC
-Pitt Cola::MISC:FOOD
-Pizza Guy::CHR:PGuy
-Poindexter::CHR:FPines
-Polly::CrAn
-Pony Heist::MISC:TV
-Pool Mobile::MISC:VEH
-Pop Pop::CHR:PPop
-Possum Breath::CHR:OMcGucket
-President's Key::ORG
-Presto::CHR:PrNorthwest
-Preston Northwest::CHR:PrNorthwest
-Prison Bubble::LOC
-Probabilitizzle::CHR:PAnnoying
-Probabilitor the Annoying::CHR:PAnnoying
-Probabilitor the Annoying::CrAn
-Project Mentem::MISC:ELEC
-Pterodactyl::CrAn
-Puppet Boy::CHR:GBensen
-Puppet Crazy Gabe::CHR:GBensen
-Puppet Crazy Mabel::CHR:MPines
-Pyronica::CrAn
-Quantum destabilizer::MISC:ELEC
-Queen of the Manatees::CrAn
-Question Baby::CHR:SRamirez
-Question Mark::CHR:SRamirez
-Ready Baby?::MISC:TEXT
-Real Man Jerky::MISC:FOOD
-Real places mentioned in Gravity Falls::LOC
-Redwood Highway::LOC
-Rico::CHR:RIC
-Robbie V. and the Tombstones::ORG
-Robbie V.::CHR:RValentino
+Mabeland inhabitants::CrAn:Mabeland inhabitants
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     Robbie V.::CHR:RValentino
 Robbie Valentino::CHR:RValentino
 Robbie's van::MISC:VEH
 Rocket cart::MISC:VEH
 Romance Academy 7::MISC:GAME
-Rumble McSkirmish::CrAn
+Rumble McSkirmish::CrAn:Rumble McSkirmish
+Rumble McSkirmish::CrAn:Rumble McSkirmish
 S.S. Cool Dude::MISC:VEH
-Scarves Indoors::ORG
+Scarves Indoors::ORG:Groups and organizations
 Scary Chub-Chub Man::CHR:EBratsman
-Scuttlebutt Island::LOC
+Scuttlebutt Island::LOC:Scuttlebutt Island
+Scuttlebutt Island::LOC:Scuttlebutt Island
 Security droids::MISC:ELEC
-Sev'ral Timez::CrAn
-Shacktron::LOC
+Sev'ral Timez::CrAn:Sev'ral Timez
+Sev'ral Timez::CrAn:Sev'ral Timez
+Shacktron::LOC:Shacktron
+Shacktron::LOC:Shacktron
 Shacktron::MISC:ELEC
-Shape Shifter::CrAn
+Shape Shifter::CrAn:Shape Shifter
+Shape Shifter::CrAn:Shape Shifter
 Sheriff Gideon::CHR:GGleeful
-Shimmery Twinkleheart::CrAn
+Shimmery Twinkleheart::CrAn:Shimmery Twinkleheart
+Shimmery Twinkleheart::CrAn:Shimmery Twinkleheart
 Shmipper::CHR:SHM
 Shooting Star::CHR:MPines
-Shop Thrifty::LOC
+Shop Thrifty::LOC:Shop Thrifty
+Shop Thrifty::LOC:Shop Thrifty
 Shred Pal::MISC:ELEC
 Sir Dippingsauce::CHR:DPines
-Sister Mary Hilda Miley::CrAn
+Sister Mary Hilda Miley::CrAn:Sister Mary Hilda Miley
+Sister Mary Hilda Miley::CrAn:Sister Mary Hilda Miley
 Six Fingers::CHR:FPines
 Sixer::CHR:FPines
 Skinny Jeans::CHR:RValentino
-Skull Fracture::LOC
+Skull Fracture::LOC:Skull Fracture
+Skull Fracture::LOC:Skull Fracture
 Smabble::CHR:SMA
 Smarticle Accelerator::MISC:ELEC
 Smez::MISC:FOOD
 Smile Dip::MISC:FOOD
 Smoke bomb::MISC:MS
-Smokey Joe's All You Can Eat::LOC
+Smokey Joe's All You Can Eat::LOC:Smokey Joe's All You Can Eat
+Smokey Joe's All You Can Eat::LOC:Smokey Joe's All You Can Eat
 Soos Ramirez::CHR:SRamirez
 Soos' pick-up truck::MISC:VEH
 Soos::CHR:SRamirez
@@ -396,93 +307,8 @@ Stan Pines::CHR:SPines
 Stan Vac::MISC:ELEC
 Stan balloon::MISC:VEH
 Stan's RV::MISC:VEH
-Stan's mindscape::LOC
+Stan's mindscape::LOC:Stan's mindscape
+Stan's mindscape::LOC:Stan's mindscape
 Stanford Pines::CHR:SPines
 Stanmobile::MISC:VEH
 Stanowar::MISC:VEH
-Stañatas::MISC:GAME
-Stetson Pinefield::CHR:SPines
-Steve Pinington::CHR:SPines
-Steve::CrAn
-Sticktionary::MISC:TEXT
-Stoic Monthly::MISC:TEXT
-Stuffed Animal Tree::CrAn
-Stuffed creature of indeterminate species::MISC:GAME
-Succeeding In Management 1983::MISC:TEXT
-Summerween Superstore::LOC
-Summerween Trickster::CrAn
-Tambers::CHR:TAM
-Tambry::CHR:TAM
-Tapeman::MISC:ELEC
-Teenz Talk::MISC:TV
-Teeth::CrAn
-Tent of Telepathy::LOC
-Tentacle Monster::CrAn
-That Fat Guy::CHR:PGuy
-The Author::CHR:FPines
-The Beast With Just One Eye ::CHR:BCipher
-The Brown Meat::MISC:FOOD
-The Club::LOC
-The Crawlspace::LOC
-The Duchess Approves::MISC:TV
-The Fear Guy from Terror Town Street::MISC:TV
-The Juke Joint::LOC
-The Old One::CHR:SPines
-The One-Eyed Beast::CHR:BCipher
-The Plaidypus::CrAn
-The Plot Twist::MISC:TEXT
-The Programmer::CHR:GGleeful
-The Royal Order of the Holy Mackerel::ORG
-The Royal Ragtime Theatre::LOC
-The Sibling Brothers::MISC:TEXT
-The Triangle Guy::CHR:BCipher
-The Undead::CrAn
-The Voyages of Loinclothiclese::MISC:TV
-Theatre Time Theater::LOC
-Thing 26::CrAn
-Thompson's mini-van::MISC:VEH
-Tiger Fist::MISC:TV
-Time Anomaly Removal Crew::ORG
-Time Baby::CrAn
-Time Paradox Avoidance Enforcement Squadron::ORG
-Time tape::MISC:FT
-Time wish::MISC:SN
-Toffee Peanuts::MISC:FOOD
-Tons grocery store::LOC
-Toot-Toot McBumbersnazzle::CHR:BIvan
-Town Hall::LOC
-Town square::LOC
-Trembley's Cove::LOC
-Troll Boy::CHR:DPines
-Truth Telling Teeth::MISC:SN
-Tubby Tusk Root Beer::MISC:FOOD
-Tumbleweed Terror::CrAn
-Tumbleweed Terror::MISC:SN
-Tyrone::CrAn
-USA Newz::MISC:TEXT
-Underground laboratory::LOC
-Unicorns::CrAn
-Universe portal::MISC:SN
-Valentino Funeral Home::LOC
-Vending machine::MISC:MS
-Voice-altering tonic::MISC:SN
-Wacky News::MISC:TEXT
-Waffle Guards::CrAn
-Wax Museum of Mystery::LOC
-Wax Stan::MISC:MS
-Wax figures::CrAn
-Wentworth residence::LOC
-What Could Go Wrong?: The Game::MISC:GAME
-What-the-heck-ahedron::MISC:GAME
-Whinny, Pray, Trot::MISC:TEXT
-Why Am I Sweaty?::MISC:TEXT
-Why You Ackin' So Cray-Cray?::MISC:TV
-Will E. Badger::MISC:ELEC
-Winninghouse Coupon Savers::ORG
-Wolfman Bare Chest::MISC:TEXT
-Wood Grain on Everything::ORG
-World's Most Terrifying Skydiving::MISC:TV
-Ye Royal Discount Putt Hutt::LOC
-Yumberjacks::LOC
-Zanthar::CrAn
-Zodiac::MISC:SN

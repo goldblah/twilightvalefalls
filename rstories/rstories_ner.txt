@@ -1,6 +1,6 @@
-reckless::CHR
-death::CHR
-gustaf::CHR
+reckless::CHR:reckless
+death::CHR:death
+gustaf::CHR:gustaf
 sacred object::MISC:SO
 object::MISC:SO
 srvr-2k16::CHR:SRVR
@@ -8,23 +8,23 @@ dr. roberts::CHR:MRoberts
 srvr::CHR:SRVR
 marigold roberts::CHR:MRoberts
 doc::CHR:MRoberts
-david::CHR
-spruce pine::LOC
-north carolina::LOC
-ted::CHR
-marco::CHR
-nasa::ORG
-hut::LOC
-earth::LOC
-moon::LOC
+david::CHR:DAV
+spruce pine::LOC:spruce pine
+north carolina::LOC:north carolina
+ted::CHR:TED
+marco::CHR:MAR
+nasa::ORG:nasa
+hut::LOC:hut
+earth::LOC:earth
+moon::LOC:moon
 rover::MISC:VEH
-clarke::CHR
+clarke::CHR:CLA
 froot loops::MISC:FOOD
 cap'n crunch::MISC:FOOD
 frosted flakes::MISC:FOOD
 quinn::CHR:MQuinn
 miles quinn::CHR:MQuinn
-mercy::CHR
+mercy::CHR:MER
 joseph::CHR:Joe
 joe::CHR:Joe
 fat man::CHR:Dri
