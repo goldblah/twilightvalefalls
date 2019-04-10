@@ -77,11 +77,11 @@ whole_epi = epi_df(file)
 
 words = nltk.word_tokenize(ner)
 
-# f = open(dir + 'gravity_falls_ner.txt', 'w+')
-# for w in final_entities:
-#     f.writelines(', '.join(w))
-#     f.write('\n')
-# f.close()
+f = open(dir + 'gravity_falls_ner.txt', 'w+')
+for w in final_entities:
+    f.writelines(', '.join(w))
+    f.write('\n')
+f.close()
 
 #print(ner_tagger.tag(words))
 
