@@ -44,6 +44,5 @@ RG's publications were in 2016, 2018, 2019
         - :GAME
         - :ELEC
         - :SN
-        - :GOV
         - :FT
         - :MS
