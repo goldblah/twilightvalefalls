@@ -51,12 +51,14 @@ The screen pans across the various people hiding in the Mystery Shack.
 Toby Determined: (As a gnome pulls a dart out of him) Ow!
 
 Greggy C.: We have...
-
-Sev'ral Timez: (Singing:) Several injuries! (Clutch their injuries) Oh, ow...
+</td></tr>, <th>Greggy C.
+</th>, <tr>
+<th>Sev'ral Timez: (Singing:) Several injuries! (Clutch their injuries) Oh, ow...
 
 Chubby Z.: Ow, my liver, girl!
-
-Dipper: Ah! Rumble McSkirmish?
+</td></tr>, <th>Chubby Z.
+</th>, <tr>
+<th>Dipper: Ah! Rumble McSkirmish?
 
 Rumble: Do not be afraid. Weirdmageddon has taught me, there are some battles I cannot win. I am now Humble McSkirmish. (A digital "-50 despair" pops up next to Rumble)
 

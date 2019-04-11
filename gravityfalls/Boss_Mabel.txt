@@ -8,9 +8,10 @@ Contestant spins the wheel and lands on "cash shower."
 
 TV Announcer: Congratulations! You're taking a...
 
-Stan Pines and TV Announcer: Cash shower!
-
-Money starts falling down on the man in the middle. When the other two contestants try to take some money, he slaps and punches them away.
+Stan Pines &amp; TV Announcer: Cash shower!
+</td></tr>, <th>Stan Pines &amp; TV Announcer
+</th>, <tr>
+<th>: Money starts falling down on the man in the middle. When the other two contestants try to take some money, he slaps and punches them away.
 
 Stan: I like that guy's style.
 
@@ -256,6 +257,7 @@ Walk in, girls!
 Show them boys!
 Make that money!
 Ooooooo, ooooooo, oooo, oooo, ooooo, ooooooooo!
+
 
 Mabel: (to Wendy:) Top marks! (to Soos:) Top marks! (to a squirrel, which runs away:) Top marks! (spinning around in her chair) Boss boss boss boss boss! (Later, Mabel puts up a poster of an Eagle and underneath it are the words "Leadership." However, Mabel has taped a picture of her face on top of the eagle's) It's beautiful...
 

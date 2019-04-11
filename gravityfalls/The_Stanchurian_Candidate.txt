@@ -1,20 +1,52 @@
 Scene opens from Stan's perspective in the Mystery Shack as he is waking up. It switches to a top view of him in bed.
 
-Stan Pines:  Alright Stan, another day, another random body pain. Here we go. (Puts on slippers that are soaked in milk) Ugh! Finds a note on his desk that reads: "Dear Stan, I need something to carry milk in so I used your slippers. Love, Mabel." Stan shudders and walks into the kitchen and tries to turn on a light but the light bulb bursts. He groans and goes to find a new light bulb but finds that the box is empty except for a note that reads: "Dear Stan, I took these to build a planetarium suit for Soos! Sorry! Dipper." Stan grumbles and crumples the note.
+
+Stan Pines
+:  Alright Stan, another day, another random body pain. Here we go. (Puts on slippers that are soaked in milk) Ugh!
+</td></tr>, <th>
+Stan Pines
+
+</th>, <tr>
+<th>: Finds a note on his desk that reads: "Dear Stan, I need something to carry milk in so I used your slippers. Love, Mabel." Stan shudders and walks into the kitchen and tries to turn on a light but the light bulb bursts. He groans and goes to find a new light bulb but finds that the box is empty except for a note that reads: "Dear Stan, I took these to build a planetarium suit for Soos! Sorry! Dipper." Stan grumbles and crumples the note.
 
 Cut to Stan waiting in line in a grocery store at the checkout counter with light bulbs. Robbie, Lee, Tambry and Nate show up behind him.
 
-Lee: Whoa, let's not take this line. There's an old person in it.
 
-Robbie Valentino: Psh, yeah. He's probably gonna pay with like, pennies and, war bonds.
+Lee
+: Whoa, let's not take this line. There's an old person in it.
+</td></tr>, <th>
+Lee
 
-Stan: Hey! For your information, I was gonna shoplift most of this.
+</th>, <tr>
+<th>
+Robbie Valentino
+: Psh, yeah. He's probably gonna pay with like, pennies and, war bonds.
+</td></tr>, <th>
+Robbie Valentino
 
-Cashier: Security!
+</th>, <tr>
+<th>
+Stan
+: Hey! For your information, I was gonna shoplift most of this.
+</td></tr>, <th>
+Stan
 
-Stan: (Security guards rush to Stan) Ha! Smoke bomb! (Stan throws smoke bombs on the floor that reads "Expire 11/1996"; nothing happens) Aw, seriously? (The security guards tackle Stan) Ahh!
+</th>, <tr>
+<th>
+Cashier
+: Security!
+</td></tr>, <th>
+Cashier
 
-Cut to Stan coming home bruised with the box of light bulbs.
+</th>, <tr>
+<th>
+Stan
+: (Security guards rush to Stan) Ha! Smoke bomb! (Stan throws smoke bombs on the floor that reads "Expire 11/1996"; nothing happens) Aw, seriously? (The security guards tackle Stan) Ahh!
+</td></tr>, <th>
+Stan
+
+</th>, <tr>
+<th>: Cut to Stan coming home bruised with the box of light bulbs.
 
 Stan: Ugh. Rough start to a day. (Walks towards the kitchen) But it's all gonna be worth it when I fix that light bul — (Stan walks in to see Ford screwing in a light bulb with Dipper, Mabel, and Soos)
 
@@ -30,9 +62,14 @@ Ford: Oh we were, so I invented my own! It will last a thousand years and the li
 
 Dipper, Mabel and Soos: (Rubbing their skin) Oooh!
 
-Soos: Never have I known such softness!
 
-Ford: Anyway, where were you?
+Soos
+: Never have I known such softness!
+</td></tr>, <th>
+Soos
+
+</th>, <tr>
+<th>Ford: Anyway, where were you?
 
 Stan: (Drops new light bulbs in the trash; goes to the TV and picks up the remote) Well, TV at least you appreciate me. Give me the good news. (Turns on the TV)
 
@@ -44,17 +81,39 @@ Dipper: (Walks in with Mabel) Whoa, what's going on?
 
 Shandra: (On TV:) Raised by bears in the wilderness, Mayor Eustace Huckabone Befufftlefumpter was best known for raising the water tower, possible starting World War I, and putting town menace Gideon Gleeful behind bars, in actual adult prison. A memorial statue is already being carved in the deceased mayor's honor. (Cries while her co-host comforts her) I'm sorry. It's just been so long since we've had real news. I'm just so happy! (Keeps crying)
 
-Shandra's co-host: (On TV:) There will be a town hall meeting this afternoon to discuss replacing him.
 
-Stan: New mayor huh? Wonder who it could be... (Sees his reflection in the TV)
+Shandra's co-host
+: (On TV:) There will be a town hall meeting this afternoon to discuss replacing him.
+</td></tr>, <th>
+Shandra's co-host
+
+</th>, <tr>
+<th>
+Stan
+: New mayor huh? Wonder who it could be... (Sees his reflection in the TV)
+</td></tr>, <th>
+Stan
+
+</th>, <tr>
+<th>: Cut to the theme song.
 
 Cut to all the citizens of Gravity Falls in the Town Hall.
 
-Sheriff Blubs: Alright. Order! Order everyone! Calm down now! We're here to choose a mayor for the first time in almost a century. According to the town charter, (unrolls an old scroll as a bat flies out of it) a worthy candidate is defined as anyone who can cast a shadow, count to ten, and throw their hat into the provided ring. (Deputy Durland brings out a hoop and places it on the floor; Bud Gleeful immediately throws his hat in it)
 
-Bud: Well now I do believe I fulfill all the requirements.
+Sheriff Blubs
+: Alright. Order! Order everyone! Calm down now! We're here to choose a mayor for the first time in almost a century. According to the town charter, (unrolls an old scroll as a bat flies out of it) a worthy candidate is defined as anyone who can cast a shadow, count to ten, and throw their hat into the provided ring. (Deputy Durland brings out a hoop and places it on the floor; Bud Gleeful immediately throws his hat in it)
+</td></tr>, <th>
+Sheriff Blubs
 
-Dipper: Wait, Bud Gleeful?
+</th>, <tr>
+<th>
+Bud
+: Well now I do believe I fulfill all the requirements.
+</td></tr>, <th>
+Bud
+
+</th>, <tr>
+<th>Dipper: Wait, Bud Gleeful?
 
 Mabel: He looks good! Considering we threw his son in jail.
 

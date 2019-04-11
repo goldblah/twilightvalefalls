@@ -365,8 +365,9 @@ Cut to Mabel's hallucination, she is in a valley that changes colors, and crazy 
 Flavor pup: (Speaks gibberish)
 
 Flavor pup #2: Would you like to eat my candy paws?
-
-Mabel: Of course you little angel! (Grabs the paw and chews it)
+</td></tr>, <th>Flavor pup #2
+</th>, <tr>
+<th>Mabel: Of course you little angel! (Grabs the paw and chews it)
 
 Cut to real life; Mabel is chewing on air.
 
@@ -479,6 +480,8 @@ Dipper: (Picks up her phone, reading from it:) Status update: AAAAUUUUUGGGGGGHHH
 Tambry: (Appears on security camera screen) AAAAAAAAAAAAH!
 
 Teens and Dipper: AAAAUUGGH!
+
+(Commercial break)
 
 Tambry: AAAAH!!
 
@@ -638,6 +641,7 @@ I do! I do!
 So go up and greet your Mammy mammy mammy!
 Hi there! Hi there!
 So march march march around the daisies... (Wendy smiles; this is the cutest thing she had ever seen)
+
 
 Pa: Yes, Yes! More! MORE!
 

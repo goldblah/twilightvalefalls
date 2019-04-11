@@ -185,16 +185,21 @@ Gideon: Father, have I ever told you the true nature of this book?
 The scene transitions to someone writing Journal 2.
 
 Gideon (narrating): It was written many years ago by a brilliant unknown author who learned secrets too powerful for one man.
+</td></tr>, <th>Gideon (narrating)
+</th>, <tr>
+<th>: The Author is shown burying the book.
 
-The Author is shown burying the book.
+Gideon (narrating): 
+He hid his journals where he thought no one would ever find 'em.
 
-Gideon (narrating): He hid his journals where he thought no one would ever find 'em.
-
-The scene fades to the books Journal 1 and Journal 2 coming closer together with Gravity Falls on fire and Gideon in the background. After that it shows the six-fingered hand, but instead of it being gold, it portrays the universe.
+</td></tr>, <th>Gideon (narrating)
+</th>, <tr>
+<th>: The scene fades to the books Journal 1 and Journal 2 coming closer together with Gravity Falls on fire and Gideon in the background. After that it shows the six-fingered hand, but instead of it being gold, it portrays the universe.
 
 Gideon (narrating): Because he knew that if the journals were ever bought together, they would unleash a gateway to unimaginable power.
-
-The scene fades back to Gideon.
+</td></tr>, <th>Gideon (narrating)
+</th>, <tr>
+<th>: The scene fades back to Gideon.
 
 Gideon: Codes and maps had led me to believe that the other book is buried somewhere on this very property, and I intend to find it!
 
@@ -272,7 +277,9 @@ Dipper: ... Wait a minute! An army! Mabel, that's it! The gnomes!
 
 Mabel: Uhh... (Nervously tugs her sweater's collar)
 
+
 Cuts to the twins entering the forest.
+
 
 Dipper: I think this is their hiding spot.
 
@@ -326,11 +333,15 @@ Soos: (Puts his hand on Stan's nose, then pats his arm as smoke emerges from his
 
 Cuts to construction at the Mystery Shack.
 
-Gideon: Where are you, Journal? (Gideon takes shovel and starts to dig) Where are you!
+Gideon: 
+Where are you, Journal? (Gideon takes shovel and starts to dig) Where are you!
+
 
 Bud: Boy, I hate to interrupt you, but you have some guests.
 
-Gideon: What?
+Gideon: 
+What?
+
 
 Dipper: Give us the deed to the shack, Gideon, or else.
 
@@ -342,9 +353,13 @@ Suddenly an army of gnomes surround Gideon; knock out and tie up guards.
 
 Gideon: (Gasps)
 
-Dipper: You're surrounded by an unstoppable gnome army, now give us back our deed and get off our property!
+Dipper: 
+You're surrounded by an unstoppable gnome army, now give us back our deed and get off our property!
 
-Jeff: And let the marriage ceremony begin!
+
+Jeff: 
+And let the marriage ceremony begin!
+
 
 Gideon: (Sighs) Very well. I suppose this deed belongs to—
 
@@ -362,7 +377,9 @@ Gideon: (Points at Dipper and Mabel) Subdue them!
 
 The gnomes grunt and charge at Dipper and Mabel
 
-Gideon: I have to admit, kids, I am impressed by your creativity! How did you ever...
+Gideon: 
+I have to admit, kids, I am impressed by your creativity! How did you ever...
+
 
 Dipper: Let go! (Journal 3 falls out of Dippers pocket) Oh no!
 
@@ -429,8 +446,9 @@ Cut to Soos' house. Soos' grandma is vacuuming the curtains and Stan is sitting 
 Stan: Well Stan, this is it. Rock bottom. No friends, no family, stuck watching infomercials for whatever that is...
 
 Bobby Renzobbi (on TV): Are you sick of piles of owls constantly blocking your drive way? Well then you gotta get owl trowel!
-
-Stan: (Picks up the Gideon pin) How did you do it, kid? Why are you always one step ahead? Maybe he really is psychic after... (His hearing aid acts up) Ah! My hearing aid! What keeps causing that? Wait a minute! That's it! I know Gideon's weakness!
+</td></tr>, <th>Bobby Renzobbi (on TV)
+</th>, <tr>
+<th>Stan: (Picks up the Gideon pin) How did you do it, kid? Why are you always one step ahead? Maybe he really is psychic after... (His hearing aid acts up) Ah! My hearing aid! What keeps causing that? Wait a minute! That's it! I know Gideon's weakness!
 
 Abuelita: (Brings tea) Would Mr. Pines like a...
 
@@ -509,8 +527,9 @@ Gideon: Once I find the final journal I'll rule this town! With you as my queen!
 Mabel: Dipper! Help me! HELP!
 
 Gideon (In Dipper's mind): Face it kid, you're nothing without that journal. How are you gonna fight then? No muscles. No brains. What are you gonna do, huh? What are you gonna do!
-
-Dipper sadly walks to the forest. But then, Dipper runs and jumps off the cliff breaking in the Gideon-bot, tackling Gideon.
+</td></tr>, <th>Gideon (In Dipper's mind)
+</th>, <tr>
+<th>: Dipper sadly walks to the forest. But then, Dipper runs and jumps off the cliff breaking in the Gideon-bot, tackling Gideon.
 
 Dipper: Let go of my sister!
 
@@ -577,14 +596,17 @@ Inside of the bot there are many screens showing the Gravity Falls' people.
 Lazy Susan: Wait a minute, is that ME?
 
 Lazy Susan (On TV): The secret ingredient to my coffee omelet is coffee!
-
-Toby: And me!
+</td></tr>, <th>Lazy Susan (On TV)
+</th>, <tr>
+<th>Toby: And me!
 
 Doctor (On Tv): I can verify that that birthmark is indeed disgusting.
-
-Toby (On TV): Hooray!
-
-Crowd: That's me! That's me!
+</td></tr>, <th>Doctor (On Tv)
+</th>, <tr>
+<th>Toby (On TV): Hooray!
+</td></tr>, <th>Toby (On TV)
+</th>, <tr>
+<th>Crowd: That's me! That's me!
 
 Stan: That's right, these pins are hidden cameras! And my hearing aid was picking up the feedback! Who's the fraud now? (Breaks the pin revealing there was a camera in the eye of it)
 
