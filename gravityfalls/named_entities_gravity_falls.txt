@@ -252,7 +252,10 @@ Ma and Pa Duskerton::CrAn:Ma and Pa Duskerton
 Mabel Pines::CHR:MPines
 Mabel juice::MISC:FOOD
 Mabel's grappling hook::MISC:MS
-    Magnet guns::MISC:ELEC
+Mabel's rom-coms::MISC:TV
+Mabel's sweaters::MISC:Mabel's sweaters
+Mabeland inhabitants::CrAn:Mabeland inhabitants
+Magnet guns::MISC:ELEC
 Mailbox::MISC:SN
 Main Street::LOC:Main Street
 Man 16::CHR:BBiker
@@ -265,12 +268,12 @@ Master of Puppets::CHR:GBensen
 Mattress King::CHR:MKing
 Mattress Prince's mattress store::LOC:Mattress Prince's mattress store
 Mattress Prince::CHR:MKing
-May May and the Hogg A.M.::MISC
+May May and the Hogg A.M.::MISC:May May and the Hogg A.M.
 Mayor Befufftlefumpter::CHR:MBefufftlefumpter
 Mc suck it::CHR:OMcGucket
 Meat Cute::LOC:Meat Cute
 Memory Gun::MISC:ELEC
-Memory tube::MISC
+Memory tube::MISC:Memory tube
 Meow o'clock::MISC:ELEC
 Mermando::CHR:MER
 Mermando::CrAn:Mermando
@@ -295,9 +298,9 @@ Mystery Shack::LOC:Mystery Shack
 Mystic Amulet::MISC:SN
 NORT::MISC:GAME
 Nearly Almost Dead But Not Quite!::MISC:TV
-Negative Twelve Dollar Bill::ORG:Governmental
+Negative Twelve Dollar Bill::ORG:Negative Twelve Dollar Bill
 Nightmare Realm::LOC:Nightmare Realm
-Northwest Cover-up::ORG:Governmental
+Northwest Cover-up::ORG:Northwest Cover-up
 Northwest Manor::LOC:Northwest Manor
 Northwest Mud Flaps::LOC:Northwest Mud Flaps
 Northwest family's car::MISC:VEH
@@ -309,7 +312,7 @@ Ogres::CrAn:Ogres
 Old Man McGucket::CHR:OMcGucket
 One Eyed Demon::CHR:BCipher
 Overly Sensitive Owl::MISC:FOOD
-Owl Trowel::MISC
+Owl Trowel::MISC:Owl Trowel
 PLATINUMPAZ::CHR:PNorthwest
 Pacifica Northwest::CHR:PNorthwest
 Pain Hole::LOC:Pain Hole
@@ -329,7 +332,7 @@ Pony Heist::MISC:TV
 Pool Mobile::MISC:VEH
 Pop Pop::CHR:PPop
 Possum Breath::CHR:OMcGucket
-President's Key::ORG:Governmental
+President's Key::ORG:President's Key
 Presto::CHR:PNorthwest
 Preston Northwest::CHR:PNorthwest
 Prison Bubble::LOC:Prison Bubble
@@ -351,7 +354,7 @@ Real Man Jerky::MISC:FOOD
 Real places mentioned in Gravity Falls::LOC:Real places mentioned in Gravity Falls
 Redwood Highway::LOC:Redwood Highway
 Rico::CHR:RIC
-Robbie V. and the Tombstones::ORG:Groups and organizations
+Robbie V. and the Tombstones::ORG:Robbie V. and the Tombstones
 Robbie V.::CHR:RValentino
 Robbie Valentino::CHR:RValentino
 Robbie's van::MISC:VEH
@@ -359,7 +362,7 @@ Rocket cart::MISC:VEH
 Romance Academy 7::MISC:GAME
 Rumble McSkirmish::CrAn:Rumble McSkirmish
 S.S. Cool Dude::MISC:VEH
-Scarves Indoors::ORG:Groups and organizations
+Scarves Indoors::ORG:Scarves Indoors
 Scary Chub-Chub Man::CHR:EBratsman
 Scuttlebutt Island::LOC:Scuttlebutt Island
 Security droids::MISC:ELEC
