@@ -153,19 +153,19 @@ Stan: What is this living nightmare? And why do kids love it so much?
 While Stan is talking, the camera pans over to a crowd of kids in front of a stage. On the stage are a band of animatronic animals. An animatronic badger walks forward.
 
 Will E. Badger: (Strums guitar) Who wants to get baaadgered?!
-</td></tr>, <th>Will E. Badger
+Will E. Badger
 </th>, <tr>
 <th>: The children cheer. A man is now standing next to Stan.
 
 Gary: Oh yeah, that's Will E. Badger. He opens for Hoo-Ha and the Jamboree.
 
 Will E. Badger: (Dancing) Ooh, ah! Ooh, ah ah!
-</td></tr>, <th>Will E. Badger
+Will E. Badger
 </th>, <tr>
 <th>Nicolas: Will E. Badger! I love you, Will E.!
 
 Will E. Badger: (Holding out a cap with money in it) Now give me your mon-aaaaay!
-</td></tr>, <th>Will E. Badger
+Will E. Badger
 </th>, <tr>
 <th>: The children put money into the cap.
 
@@ -216,7 +216,7 @@ Soos: Ehh, start! (Reading the game's introduction text:) "When the cherry peta
 The game screen changes to one with a classroom background and some stats on the left. A pink-haired girl appears.
 
 .GIFfany: Oh, hi there! My name is .GIFfany. I'm a schoolgirl at School University. Will you help me carry my books?
-</td></tr>, <th>.GIFfany
+.GIFfany
 </th>, <tr>
 <th>: The game gives the options "Yes of course!", "I am impatient! Date me now!" and "Hey look a squid!"
 
@@ -227,31 +227,31 @@ The game plays a buzzer sound and the option turns red.
 Soos: Ah! I messed up.
 
 .GIFfany: That's okay. Try again!
-</td></tr>, <th>.GIFfany
+.GIFfany
 </th>, <tr>
 <th>: Soos clicks the first option. The game awards him 100 "Love Points" as coins and a cat falls in front of the screen.
 
 Soos: Wow, I'm learning! And games are making it fun.
 
 .GIFfany: What would you like to talk about?
-</td></tr>, <th>.GIFfany
+.GIFfany
 </th>, <tr>
 <th>: The options offered are "Your interests," "Samurais" and "Squids."
 
 Soos: I'd rather just click your face. (Clicks her face)
 
 .GIFfany: Ha ha. You are so funny.
-</td></tr>, <th>.GIFfany
+.GIFfany
 </th>, <tr>
 <th>Soos: Man, this game is amazing! I don't know why anyone abandoned it.
 
 .GIFfany: And I'm sure you'll never abandon me, new boyfriend.
-</td></tr>, <th>.GIFfany
+.GIFfany
 </th>, <tr>
 <th>Soos: Boyfriend? Oh my, .GIFfany. It's almost like you're actually alive.
 
 .GIFfany: Yes. Almost. (Laughs throughout the rest of the scene)
-</td></tr>, <th>.GIFfany
+.GIFfany
 </th>, <tr>
 <th>Soos: (Laughs) Oh, man. You have such a nice laugh.
 
@@ -278,7 +278,7 @@ Cut to Soos's house. Mabel and Dipper enter Soos' room. Soos is still at his co
 Soos: (Laughs) So that's basically my entire life story. Now you tell me a thing about you!
 
 .GIFfany: Every time you compliment me I get another highlight in my eyes!
-</td></tr>, <th>.GIFfany
+.GIFfany
 </th>, <tr>
 <th>Soos: Uh, you're pretty!
 
@@ -315,7 +315,7 @@ Soos: I'll see you later, .GIFfany. I'll be back, I swear!
 Mabel: (Laughs) Soos, you don't have to wish it goodbye. It's just a game. It's not like it's going anywhere. (Closes door)
 
 .GIFfany: Yes. It's not like I'm going anywhere.
-</td></tr>, <th>.GIFfany
+.GIFfany
 </th>, <tr>
 <th>: An arc of electricity moves from the computer and passes through a nearby toy, a digital clock and a power outlet before traveling through the power cables outside.
 
@@ -352,36 +352,36 @@ Soos runs away and leans against a glass screen in front of several televisions.
 Soos: Oh, man! This is the worst! I wish I was back home with-
 
 .GIFfany: (Off-screen) Hi, Soos!
-</td></tr>, <th>.GIFfany
+.GIFfany
 </th>, <tr>
 <th>: .GIFfany is shown on a television screen, acting lovingly at Soos.
 
 Soos: .GIFfany! Oh man, I'm so relieved to see you! Although, sorta confused.
 
 .GIFfany: Oh, Soos. (Another .GIFfany appears) I am not an ordinary game. (Another .GIFfany) I am... (Points to toy dog on a shelf, making it bark) special.
-</td></tr>, <th>.GIFfany
+.GIFfany
 </th>, <tr>
 <th>: A screen shows people working on computers, who .GIFfany refers to as, "The Programmers."
 
 .GIFfany: The programmers tried to delete me. (Screen shows various people working on computers, focusing on one in particular. An "X" appears on his computer and a word bubble reading "わかりません" ("wakarimasen"; "I don't understand"). He starts working harder and is about to delete the program but is shocked and dies) So I had to delete them.
-</td></tr>, <th>.GIFfany
+.GIFfany
 </th>, <tr>
 <th>Soos: Wha-what did you do to them?
 
 .GIFfany: (Many .GIFfanys appear) That's not important. What's important is that you won't have to talk to real girls ever again. You and me can be together. (All screens make up one, huge .GIFfany. The large .GIFfany's voice sounds echoic.) Forever!
-</td></tr>, <th>.GIFfany
+.GIFfany
 </th>, <tr>
 <th>Soos: Wow, that's awesome! Sort of a red flag, but mostly awesome! So, what do you want to do now?
 
 .GIFfany: Anything you want, Soos.
-</td></tr>, <th>.GIFfany
+.GIFfany
 </th>, <tr>
 <th>: Cut to Soos riding a kid's train. .GIFfany is on the train's screen, riding a virtual train.
 
 Soos: (Laughs) Choo choo!
 
 .GIFfany: (Laughs. Screen shuts down)
-</td></tr>, <th>.GIFfany
+.GIFfany
 </th>, <tr>
 <th>Train Voice: Please insert fifty cents to continue.
 
@@ -440,32 +440,32 @@ Cut to Soos's room
 Soos: Hey, .GIFfany? We, uh-- We gotta talk.
 
 .GIFfany: Of course. I am programmed to find everything you say interesting.
-</td></tr>, <th>.GIFfany
+.GIFfany
 </th>, <tr>
 <th>Soos: Well, have you ever had to choose between two things you like, but you don't know which one is right for you? I mean, I'm just thinkin' long term... Maybe I should be someone a little less (Mimicking a game character) "beep boop." Heh, you know?
 
 .GIFfany: I don't think you know what you're saying, Soos. No one loves you more than me. The girls out there will just make fun of you!
-</td></tr>, <th>.GIFfany
+.GIFfany
 </th>, <tr>
 <th>Soos: You- you really think so?
 
 .GIFfany: (Angrily:) I know so! Besides, we had a deal. You bought my game, you held my books, you're my boyfriend. Now sit down in that chair!
-</td></tr>, <th>.GIFfany
+.GIFfany
 </th>, <tr>
 <th>Soos: I don't think I like the way you're acting...
 
 .GIFfany: (Banging on the computer screen) I WON'T LET ANOTHER GIRL TAKE YOU AWAY FROM ME, SOOS! YOU HEAR ME?!
-</td></tr>, <th>.GIFfany
+.GIFfany
 </th>, <tr>
 <th>Soos: .GIFfany, calm down!
 
 .GIFfany: YOU'RE MINE, SOOS!
-</td></tr>, <th>.GIFfany
+.GIFfany
 </th>, <tr>
 <th>Soos: Well, uh, uh... (Picks up his game controller) Pause! (Presses a button)
 
 .GIFfany: DO YOU HEAR ME? MIII- (Is paused)
-</td></tr>, <th>.GIFfany
+.GIFfany
 </th>, <tr>
 <th>Soos: (Looks around) Woah, that got intense. I'm sorry, .GIFfany. (Removes the game disc from the computer as some electricity moves from the disc tray to .GIFfany on the screen) Maybe having a cursed robo-girlfriend wan't a good idea. (Turns the computer off and puts the disc in his pocket) I'm taking you back to the video game store after my date with Melody.
 
@@ -532,7 +532,7 @@ Melody: (Laughs) You're hilarious.
 Soos: (Laughs) Yeah, well, you know, I just sorta say whatever pops into my, uh... (Looks at video game behind Melody, and .GIFfany is on the screen)
 
 .GIFfany: (Makes subtitles appear, reading, "You paused me?")
-</td></tr>, <th>.GIFfany
+.GIFfany
 </th>, <tr>
 <th>Soos: (Spits out water onto Melody and coughs)
 
@@ -543,7 +543,7 @@ Soos: No! I'm, uh, fine! Everything's fine.
 Melody: You sure? You're spitting an awful lot.
 
 .GIFfany: (On three screens makes subtitles appear reading, "You left me for her?" followed by an ex-ed out image of Melody's face)
-</td></tr>, <th>.GIFfany
+.GIFfany
 </th>, <tr>
 <th>Soos: (Sweating) Uh, can you sit tight? I have to go to the bathroom for a long time. Not in a weird way. (Runs off too Dipper and Mabel, who are hiding behind a pizza box)
 
@@ -584,14 +584,14 @@ Hoo-Ha: Hoo! Hoo! Hoo! Who wants to hear Hoo Ha the Owl? Oh! Who...? (Shuts down
 Lights center on the beaver cheerleader, who is possessed by .GIFfany.
 
 .GIFfany: Hello, friends. Hoo Ha the owl is dead. (Lights go out. Cowboy frog plays quietly) This next song goes out to my forever boyfriend, Soos.
-</td></tr>, <th>.GIFfany
+.GIFfany
 </th>, <tr>
 <th>Melody: Soos, what's going on?
 
 Soos: No time to explain! We gotta get out of here! (Drags Melody to the door. Dipper and Mabel run with them)
 
 .GIFfany: The only way out, Soos, is in my arms! (Eyes turn red. Snaps fingers, and takes possession of the other animatronics; To animatronics:) After them!
-</td></tr>, <th>.GIFfany
+.GIFfany
 </th>, <tr>
 <th>: People run out of the restaurant, screaming.
 
@@ -602,24 +602,24 @@ Done. Out with the old, in with the new. I feel invincible!
 
 
 Will E. Badger: (Powers on, having become possessed as well, and begins punching Stan in the face)
-</td></tr>, <th>Will E. Badger
+Will E. Badger
 </th>, <tr>
 <th>Stan: Wha- what the?
 
 Will E. Badger: Who wants to get badgered?
-</td></tr>, <th>Will E. Badger
+Will E. Badger
 </th>, <tr>
 <th>Stan: (Screams)
 
 Cut back to restaurant, where everyone continues to run out except for Dipper, Mabel, Soos, and Melody, who are all trapped.
 
 .GIFfany: I'm sorry, Soos, but you can't run away from our relationship! (Takes control of skee-ball games, making them shoot out balls)
-</td></tr>, <th>.GIFfany
+.GIFfany
 </th>, <tr>
 <th>Soos: (Pulls down an arcade game for cover) So, about all this, I may have purchased a dating simulator that obtained sentience and went crazy.
 
 .GIFfany: Oh, I am crazy. Crazy for you, Soos. (Shoots lightning at the gang)
-</td></tr>, <th>.GIFfany
+.GIFfany
 </th>, <tr>
 <th>Melody: (Hair catches fire and she starts screaming as the small flame burns)
 
@@ -630,7 +630,7 @@ Melody: Soos, these are children.
 Soos: The only WAYYYY! (Runs towards the kitchen, still being attacked by the skee-ball machines) Over here, .GIFfany!
 
 .GIFfany: Stop!
-</td></tr>, <th>.GIFfany
+.GIFfany
 </th>, <tr>
 <th>: Soos uses a serving plate top slide under the attacking animatronics and under the flip-open kitchen door. .GIFfany uses her lightning to open the door.
 
@@ -649,32 +649,32 @@ Big Beaver: I'm gonna eat your face like pizza!
 Dipper screams and ducks. Big beaver hits a win button and recieves a lot of tickets. He claps. Melody then knocks him out with a chair, but is attacked by more animatronics. She screams.
 
 .GIFfany: (Surrounding Soos) I've got you surrounded, Soos. There's no way out!
-</td></tr>, <th>.GIFfany
+.GIFfany
 </th>, <tr>
 <th>Soos: Please, let my friends go, I'll do anything, I promise!
 
 .GIFfany: I seem to remember someone who promised to be my boyfriend. Think about it. (Shows on TV screen, and pictures of girls flow behind her) Real girls are unpredictable. They judge you.
-</td></tr>, <th>.GIFfany
+.GIFfany
 </th>, <tr>
 <th>Girls: (Laugh)
 
 .GIFfany: Do you really think that Melody will take you back after this awful date? (Screen shows Melody giving Soos back his flowers to her and slams the door. It starts to rain. Cut back to .GIFfany) I can download your brain into the game, with me, and we'll be together, forever. (Points her at Soos, and it turns into an extending flash drive)
-</td></tr>, <th>.GIFfany
+.GIFfany
 </th>, <tr>
 <th>Soos: (Blocks belly button with his vest) Ah! Stay back! (Throws screwdriver)
 
 .GIFfany: Come on, Soos. Don't make me delete you too.
-</td></tr>, <th>.GIFfany
+.GIFfany
 </th>, <tr>
 <th>: Soos pulls out the "Romance Academy 7" disc from his pocket.
 
 .GIFfany: What do you say?
-</td></tr>, <th>.GIFfany
+.GIFfany
 </th>, <tr>
 <th>Soos: I say, game over, .GIFfany! (Opens oven)
 
 .GIFfany: No! Wait!
-</td></tr>, <th>.GIFfany
+.GIFfany
 </th>, <tr>
 <th>: Soos throws the disc in the oven. It distorts and crinkles, .GIFfany screams and is erased from existence. The face of the specific animatronic she possessed melts, and the animatronic shuts down. The other animatronics shut down as well.
 

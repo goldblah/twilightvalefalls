@@ -185,19 +185,19 @@ Gideon: Father, have I ever told you the true nature of this book?
 The scene transitions to someone writing Journal 2.
 
 Gideon (narrating): It was written many years ago by a brilliant unknown author who learned secrets too powerful for one man.
-</td></tr>, <th>Gideon (narrating)
+Gideon (narrating)
 </th>, <tr>
 <th>: The Author is shown burying the book.
 
 Gideon (narrating): 
 He hid his journals where he thought no one would ever find 'em.
 
-</td></tr>, <th>Gideon (narrating)
+Gideon (narrating)
 </th>, <tr>
 <th>: The scene fades to the books Journal 1 and Journal 2 coming closer together with Gravity Falls on fire and Gideon in the background. After that it shows the six-fingered hand, but instead of it being gold, it portrays the universe.
 
 Gideon (narrating): Because he knew that if the journals were ever bought together, they would unleash a gateway to unimaginable power.
-</td></tr>, <th>Gideon (narrating)
+Gideon (narrating)
 </th>, <tr>
 <th>: The scene fades back to Gideon.
 
@@ -446,7 +446,7 @@ Cut to Soos' house. Soos' grandma is vacuuming the curtains and Stan is sitting 
 Stan: Well Stan, this is it. Rock bottom. No friends, no family, stuck watching infomercials for whatever that is...
 
 Bobby Renzobbi (on TV): Are you sick of piles of owls constantly blocking your drive way? Well then you gotta get owl trowel!
-</td></tr>, <th>Bobby Renzobbi (on TV)
+Bobby Renzobbi (on TV)
 </th>, <tr>
 <th>Stan: (Picks up the Gideon pin) How did you do it, kid? Why are you always one step ahead? Maybe he really is psychic after... (His hearing aid acts up) Ah! My hearing aid! What keeps causing that? Wait a minute! That's it! I know Gideon's weakness!
 
@@ -527,7 +527,7 @@ Gideon: Once I find the final journal I'll rule this town! With you as my queen!
 Mabel: Dipper! Help me! HELP!
 
 Gideon (In Dipper's mind): Face it kid, you're nothing without that journal. How are you gonna fight then? No muscles. No brains. What are you gonna do, huh? What are you gonna do!
-</td></tr>, <th>Gideon (In Dipper's mind)
+Gideon (In Dipper's mind)
 </th>, <tr>
 <th>: Dipper sadly walks to the forest. But then, Dipper runs and jumps off the cliff breaking in the Gideon-bot, tackling Gideon.
 
@@ -596,15 +596,15 @@ Inside of the bot there are many screens showing the Gravity Falls' people.
 Lazy Susan: Wait a minute, is that ME?
 
 Lazy Susan (On TV): The secret ingredient to my coffee omelet is coffee!
-</td></tr>, <th>Lazy Susan (On TV)
+Lazy Susan (On TV)
 </th>, <tr>
 <th>Toby: And me!
 
 Doctor (On Tv): I can verify that that birthmark is indeed disgusting.
-</td></tr>, <th>Doctor (On Tv)
+Doctor (On Tv)
 </th>, <tr>
 <th>Toby (On TV): Hooray!
-</td></tr>, <th>Toby (On TV)
+Toby (On TV)
 </th>, <tr>
 <th>Crowd: That's me! That's me!
 

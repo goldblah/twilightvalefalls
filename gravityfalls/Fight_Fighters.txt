@@ -21,7 +21,7 @@ Dipper: Watch out! Wow! Ooh, cutscene!
 Rumble: DR. KARATE, YOU KILLED MY FATHER AGAIN!
 
 Dr. Karate: HHNNGHHHH!!!!!!!
-</td></tr>, <th>Dr. Karate
+Dr. Karate
 </th>, <tr>
 <th>Rumble: YOU TAKE THAT BAAACKKKK!!!!!!!!
 
@@ -54,7 +54,7 @@ Wendy: Hohoho.
 Robbie is nearby, putting up a flyer.
 
 <b>Dipper and Wendy</b>: (Laugh)
-</td></tr>, <th><b>Dipper and Wendy</b>
+<b>Dipper and Wendy</b>
 </th>, <tr>
 <th>Robbie Valentino: Wendy! What's up, babe? Yeah, just putting up some flyers for my band. I'm playing lead guitar. No biggie.
 

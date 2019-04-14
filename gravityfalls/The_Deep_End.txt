@@ -145,14 +145,14 @@ Mabel: I'm upset. Yet intrigued!
 Dipper: And that is why I think I'd make a good lifeguard assistant.
 
 Mr. Poolcheck: Hmm... (Gets down and sniffs Dipper) SPF 100? Good, I like you. But this isn't an easy job. It's anarchy out there.
-</td></tr>, <th>Mr. Poolcheck
+Mr. Poolcheck
 </th>, <tr>
 <th>: (It shows the pool being perfectly calm.)
 
 Dipper: I think I can handle it.
 
 Mr. Poolcheck: Can you handle this?! (He pulls of his hand, revealing it to be prosthetic; Dipper screams) I lost my hand to a pool filter. The pool may seem friendly, but she can turn on you in an instant. Which is why you must respect her rules! Do you think you have what it takes, boy? Do you?!
-</td></tr>, <th>Mr. Poolcheck
+Mr. Poolcheck
 </th>, <tr>
 <th>: (Dipper looks at Wendy, who is giving him a thumbs up.)
 
@@ -161,7 +161,7 @@ Dipper: Sure. I guess.
 (Mr. Poolcheck puts a whistle around Dipper's neck.)
 
 Mr. Poolcheck: Welcome to the deep end, son.
-</td></tr>, <th>Mr. Poolcheck
+Mr. Poolcheck
 </th>, <tr>
 <th>Dipper: Well, thanks, I— (Mr. Poolcheck strangles him in a hug.) Yep. Oh, this is happening.
 
@@ -268,7 +268,7 @@ Mermando: It is a tragic story, Mabel.
 (A flashback backs)
 
 Mermando (Narrating): I was swimming with my friends, the mighty dolphins, in the Gulf of Mexico, when I was ensnared!
-</td></tr>, <th>Mermando (Narrating)
+Mermando (Narrating)
 </th>, <tr>
 <th>: (Flashback Mermando is seen swimming with dolphins until he is caught in a fishing net and brought up next to a boat)
 
@@ -277,22 +277,22 @@ Davey: (Flashback) Earl, did we just catch ourselves some kind of beautiful man-
 Earl: (Flashback) Let's feast on his flesh.
 
 Mermando (Narrating): The cargo was headed for Gravity Falls.
-</td></tr>, <th>Mermando (Narrating)
+Mermando (Narrating)
 </th>, <tr>
 <th>: (Flashback Mermando opens up the back of a truck and hops into the lake.)
 
 Mermando (Narrating): Using all my strength, I tried to escape back home, but it was not to be.
-</td></tr>, <th>Mermando (Narrating)
+Mermando (Narrating)
 </th>, <tr>
 <th>: (Flashback Mermando swims up a waterfall. When he reaches the top, he laughs, but suddenly, a log hits him in the face. He falls and lands into the forest surrounding the lake. He spits a tooth out.)
 
 Mermando (Narrating): I would have died of dehydration, were if not for the kindness of the forest animals.
-</td></tr>, <th>Mermando (Narrating)
+Mermando (Narrating)
 </th>, <tr>
 <th>: (Flashback deer come up to flashback Mermando and start licking him.)
 
 Mermando (Flashback): (Laughs) Continue licking! Oh!
-</td></tr>, <th>Mermando (Flashback)
+Mermando (Flashback)
 </th>, <tr>
 <th>: (Flashback Mermando falls down a pipe, through the forest, over the fence of the Gravity Falls pool, and into the pool. He gasps for air.)
 
@@ -357,19 +357,19 @@ Soos: The inflatable pool duck revolution is at hand.
 (Dipper and Wendy laugh, but suddenly they hear a whistle.)
 
 Mr. Poolcheck: Pool's closing! Clear out everyone!
-</td></tr>, <th>Mr. Poolcheck
+Mr. Poolcheck
 </th>, <tr>
 <th>Dipper: Poolcheck!
 
 Wendy: Hide!
 
 Mr. Poolcheck: Out! Do not touch! Assistant Lifeguard!
-</td></tr>, <th>Mr. Poolcheck
+Mr. Poolcheck
 </th>, <tr>
 <th>: (Dipper stops, incredibly nervous)
 
 Mr. Poolcheck: Have a good night, son. Lock up the supplies for me.
-</td></tr>, <th>Mr. Poolcheck
+Mr. Poolcheck
 </th>, <tr>
 <th>: (Poolcheck takes off his hand and pats it a couple of times. A pair of keys come out of it, which Dipper nervously takes and locks up the supplies with).
 
@@ -440,17 +440,17 @@ Dipper: (Blushing) All summer?
 Mr. Poolcheck blows a whistle.
 
 Mr. Poolcheck: (Pointing Blubs and Durland) Pines! Here! Now!
-</td></tr>, <th>Mr. Poolcheck
+Mr. Poolcheck
 </th>, <tr>
 <th>: Cut to Dipper and Mr. Poolcheck in front the pool supplies building
 
 Mr. Poolcheck: You gave me your word that you would respect the safety rules of this pool!
-</td></tr>, <th>Mr. Poolcheck
+Mr. Poolcheck
 </th>, <tr>
 <th>Dipper: Mr. Poolcheck? Are you crying?
 
 Mr. Poolcheck: That's not important right now! (Wipes his eyes) You are on thin ice, boy! You wanna keep this job? Well, some maniac broke in to the supplies closet last night and destroyed our one and only pool skimmer! I want you on a stakeout. If one more supply gets taken, you're fired!
-</td></tr>, <th>Mr. Poolcheck
+Mr. Poolcheck
 </th>, <tr>
 <th>Dipper: I won't let you down!
 
@@ -493,7 +493,7 @@ Dipper: You! You're the one destroying pool supplies!
 
 Stan
 : What? No! My crime is a lot better than that. I'm gonna get that seat and be ready at the morning when Gideon comes. And maybe I'll destory some pool supplies. Night's still young.
-</td></tr>, <th>
+
 Stan
 
 </th>, <tr>
@@ -512,7 +512,7 @@ Mermando: Mabel! (Swims to Mabel)
 
 Mabel
 : Are you ready to see your family?
-</td></tr>, <th>
+
 Mabel
 
 </th>, <tr>
@@ -663,12 +663,12 @@ Dipper: Yeah, yeah.
 Mabel: Oh, wait, wait! One last thing! (Runs over to Mermando) Yes! I've always wanted to do that.
 
 Mr. Poolcheck: A wrecked fence, dents in the pool mobile, And a missing megaphone? Who is responsible for this?!
-</td></tr>, <th>Mr. Poolcheck
+Mr. Poolcheck
 </th>, <tr>
 <th>Dipper: It's my fault, sir. I'm sorry. I got in too deep.
 
 Mr. Poolcheck: Hand over the whistle, boy!
-</td></tr>, <th>Mr. Poolcheck
+Mr. Poolcheck
 </th>, <tr>
 <th>: Dipper hands Poolcheck the whistle, who then proceeds to put it in his mouth and crushes it with his teeth. Dipper slowly backs away.
 
@@ -679,7 +679,7 @@ Soos throws the inflatable ducks over the fence
 Soos: You're free now! Free! Inflatable ducks unite!
 
 Mr. Poolcheck: You!
-</td></tr>, <th>Mr. Poolcheck
+Mr. Poolcheck
 </th>, <tr>
 <th>Soos: Huh? (Screams)
 

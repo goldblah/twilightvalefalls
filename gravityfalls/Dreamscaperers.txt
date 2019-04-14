@@ -83,7 +83,7 @@ Dipper, Mabel, Stan, and Wendy are watching television. Dipper and Wendy are sho
 Television: He put the old in "old west," they call him (musically:) Grandpa the Kid!
 
 Grandpa the Kid: (On television) I'm tired during the day.
-</td></tr>, <th>Grandpa the Kid
+Grandpa the Kid
 </th>, <tr>
 <th>Stan: I can relate to this.
 
@@ -354,7 +354,7 @@ Door closes
 
 Stan
 : Gotta work on that.
-</td></tr>, <th>
+
 Stan
 
 </th>, <tr>
@@ -595,7 +595,7 @@ Soos: Do you think it's actually working?
 Stan: (Points at Dipper)
 
 Dipper (in the memory): (Chops the wood in a half) I-I did it! Ha ha! Yes!
-</td></tr>, <th>Dipper (in the memory)
+Dipper (in the memory)
 </th>, <tr>
 <th>Stan: He's really comin' along! When push comes to shove, I'm actually proud of him. Just... don't ever tell him that. His head is big enough as it is.
 

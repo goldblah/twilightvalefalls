@@ -19,7 +19,7 @@ Dundgren: This is it, Blendin. End of the timeline. Any last words?
 
 Blendin
 : Uh-uh-uh-uh-I-I-I-I... I INVOKE GLOBNAR!
-</td></tr>, <th>
+
 Blendin
 
 </th>, <tr>
@@ -30,7 +30,7 @@ Dundgren: Very well, speak the name and century of those accused.
 
 Blendin
 : The two kids that ruined my life: Dipper and Mabel Pines. 21st century.
-</td></tr>, <th>
+
 Blendin
 
 </th>, <tr>

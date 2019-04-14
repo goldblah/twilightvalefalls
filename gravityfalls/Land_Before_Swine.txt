@@ -271,9 +271,8 @@ Stan: But how do we even find the little guy?
 Mabel: (gasps) We follow that! (points to the yarn trail from Waddles' sweater)
 
 Dipper &amp; Soos: Yes! Yeah! That's genius!
-</td></tr>, <th>Dipper &amp; Soos
-</th>, <tr>
-<th>Stan: Or, you know, we could just call it a day, maybe hit the pool haul, or- (stops as everyone stares at him) Yeah! Let's go... save Woggles!
+
+Stan: Or, you know, we could just call it a day, maybe hit the pool haul, or- (stops as everyone stares at him) Yeah! Let's go... save Woggles!
 
 Mabel: Waddles.
 
@@ -572,7 +571,7 @@ McGucket: Do I!? (rummages around in hid hat for a few seconds) Nope.
 Mabel: Awwww!
 
 <span style="font-weight:bold;">McGucket</span>: Well, welcome to the world, little feller- (the baby pterodactyl eats him) AAAAUGH!
-</td></tr>, <th><span style="font-weight:bold;">McGucket</span>
+<span style="font-weight:bold;">McGucket</span>
 </th>, <tr>
 <th>Dipper, Mabel, and Soos: (scream)
 
@@ -639,7 +638,7 @@ Looking up, a pterodactyl is flying around and a punching sound is heard.
 
 Dipper
 : Was that..?
-</td></tr>, <th>
+
 Dipper
 
 </th>, <tr>

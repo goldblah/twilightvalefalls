@@ -175,7 +175,7 @@ Stan: Fight, fight, fight!
 One baby is poked with a stick and the two begin slapping each other.
 
 T.V. Announcer: Baby fights!
-</td></tr>, <th>T.V. Announcer
+T.V. Announcer
 </th>, <tr>
 <th>Stan: T.V. It knows what I want.
 
@@ -306,7 +306,7 @@ Both: Aaaaah!
 
 Dipper
 : (Sits up) Ugh...what happened?
-</td></tr>, <th>
+
 Dipper
 
 </th>, <tr>
@@ -797,7 +797,7 @@ Lady looks at him.
 Soos: Can we kiss again, i—is that an option?
 
 Soos (off-screen): (The Disney logo appears) Ow, wait wait.
-</td></tr>, <th>Soos (off-screen)
+Soos (off-screen)
 </th>, <tr>
 <th style="text-align: center; background:#748458; font-family:tahoma;"><span class="plainlinks" style="float:left; font-size:10px;">V - <a class="text" href="//gravityfalls.fandom.com/wiki/Template:Transcripts?action=edit">E - <a class="text" href="//gravityfalls.fandom.com/wiki/Template:Transcripts?action=history">H - D</span><span style="font-size:13.5px;">Transcripts of Gravity Falls</span>
 </th></tr>, <th style="text-align: center; background:#748458; font-family:tahoma;"><span class="plainlinks" style="float:left; font-size:10px;">V - <a class="text" href="//gravityfalls.fandom.com/wiki/Template:Transcripts?action=edit">E - <a class="text" href="//gravityfalls.fandom.com/wiki/Template:Transcripts?action=history">H - D</span><span style="font-size:13.5px;">Transcripts of Gravity Falls</span>

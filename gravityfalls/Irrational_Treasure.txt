@@ -377,7 +377,7 @@ Dipper: Shh! Mabel.
 Reel starts, revealing a government official in an office.
 
 Govt. official: If you're watching this, then you are one of eight people in these United States with clearance to view this information. In fact, I myself will be shot as soon as the filming is complete. (Looks offscreen) --What? No? Ho! Well, that's a relief! (Looks back at the camera) Of all of America's secrets, the most embarrassing was that of Quentin Trembley: The eighth-and-a-half president of the United States.
-</td></tr>, <th>Govt. official
+Govt. official
 </th>, <tr>
 <th>Dipper and Mabel: President?
 
@@ -386,16 +386,16 @@ Mabel: Eighth-and-a-half?
 Govt. official: After winning the 1837 election in a landslide, (On the video, a picture of Quentin Trembley standing next to the other presidential candidates is shown. A landslide kills the other candidates) Quentin Trembley quickly gained a reputation as America's silliest president.
 He waged war on pancakes, appointed six babies to the supreme court, and issued the de-pants-ipation proclamation. His state of the union speech was even worse.
 
-</td></tr>, <th>Govt. official
+Govt. official
 </th>, <tr>
 <th>Trembley (reenacted recording): The only thing we have to fear is gigantic, man-eating spiders!
-</td></tr>, <th>Trembley (reenacted recording)
+Trembley (reenacted recording)
 </th>, <tr>
 <th>Govt. official: He was kicked out of office and escaped to an uncharted valley he named Gravity Falls, after plummeting into it at high speed.
 Trembley's shameful term was erased from history and officially replaced by <a class="extiw" href="http://en.wikipedia.org/wiki/William_Henry_Harrison" title="wikipedia:William Henry Harrison">William Henry Harrison as President and local nobody Nathaniel Northwest as founder of Gravity Falls.
 The whereabouts of president Trembley's body are unknown.
 
-</td></tr>, <th>Govt. official
+Govt. official
 </th>, <tr>
 <th>Blubs: Until now.
 
@@ -524,7 +524,7 @@ Cut to Dipper, Mabel, and Trembley outside of the train. Durling and Blubs are i
 
 Blubs and Durland
 : Bye-bye! Bye!
-</td></tr>, <th>
+
 Blubs and Durland
 
 </th>, <tr>

@@ -188,7 +188,7 @@ Blendin
 Blandin
 : 
 <p style="text-align:left;">Huh?
-</td></tr>, <th>Blendin
+Blendin
 Blandin
 
 </th>, <tr>
@@ -196,7 +196,7 @@ Blandin
 Pines
 : 
 <p style="text-align:left;">Don't huh me! I've seen you before! What's your deal? Are you following us around? 
-</td></tr>, <th>Dipper
+Dipper
 Pines
 
 </th>, <tr>
