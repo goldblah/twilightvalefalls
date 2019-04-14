@@ -1,0 +1,98 @@
+1888 Conductor, CHR, 1Conductor
+1960 conductor, CHR, 1conductor
+Adams, CHR, ADA
+Alicia, CHR, ALI
+Allenby, CHR, ALL
+Anthony Fremont, CHR, AFremont
+Aunt Amy, CHR, AAmy
+Avery, CHR, AVE
+Bill Soames, CHR, BSoames
+Brother Christophorus, CHR, BChristophorus
+Brother Jerome, CHR, BJerome
+Carlton Young, CHR, CYoung
+Carstairs, CHR, CAR
+Charlie, CHR, CHA
+Colonel, CHR, COL
+Colonel #1, CHR, C#1
+Connie Prince, CHR, CPrince
+Contractor, CHR, CON
+Counter Man, CHR, CMan
+Dan Hollis, CHR, DHollis
+David Ellington, CHR, DEllington
+Doctor Bernardi, CHR, DBernardi
+Don Carter, CHR, DCarter
+Elevator Man, CHR, EMan
+Engineer, CHR, ENG
+Ethel Hollis, CHR, EHollis
+Ethel McConnell, CHR, EMcConnell
+Flight Engineer, CHR, FEngineer
+Gart Williams, CHR, GWilliams
+General, CHR, GEN
+George Prince, CHR, GPrince
+Gremlin, CHR, GRE
+Haley, CHR, HAL
+Harold Beldon, CHR, HBeldon
+Helen , CHR, HEL
+Helen Bemis, CHR, HBemis
+Henry Bemis, CHR, HBemis
+Housekeeper, CHR, HOU
+J.H. Fujikawa, CHR, J.H. Fujikawa
+James A. Corry, CHR, JAM. COR
+Janet Tyler, CHR, JTyler
+Janet Tyler, CHR, JTyler
+Janie Williams, CHR, JWilliams
+Jaqueline deWit, CHR, JdeWit
+Julia Wilson, CHR, JWilson
+Kanamit voice, CHR, Kvoice
+Leveque, CHR, LEV
+Lewis J. "Lou" Bookman, CHR, LEW. "LOU" BOO
+Maggie Polanski, CHR, MPolanski
+Man, CHR, MAN
+Man on Wagon, CHR, MAN
+Marsha White, CHR, MWhite
+Martin Sloan, CHR, MSloan
+Martin's Dad, CHR, MDad
+Martin's Mom, CHR, MMom
+Mechanic, CHR, MEC
+Michael Chambers, CHR, MChambers
+Mike Ferris, CHR, MFerris
+Misrell, CHR, MIS
+Mr. Armbruster, CHR, Mr. Armbruster
+Mr. Carsville, CHR, Mr. Carsville
+Mr. Death, CHR, Mr. Death
+Mr. Fremont, CHR, Mr. Fremont
+Mr. Sloan, CHR, Mr. Sloan
+Mr. Wilson, CHR, Mr. Wilson
+Mrs. Chester, CHR, Mrs. Chester
+Mrs. Fremont, CHR, Mrs. Fremont
+Ms. Keevers, CHR, Ms. Keevers
+Narrator, CHR, NAR
+Nurse, CHR, NUR
+Nurse #2, CHR, N#2
+Olmstead, CHR, OLM
+Pat Carter, CHR, PCarter
+Pat Riley, CHR, PRiley
+Patty, CHR, PAT
+Peter Kramer, CHR, PKramer
+Robert Wilson, CHR, RWilson
+Rose Kramer, CHR, RKramer
+Ross, CHR, ROS
+Saleswoman, CHR, SAL
+Scientist, CHR, SCI
+Secretary General, CHR, SGeneral
+Señor Valdes, CHR, SValdes
+Short Boy, CHR, SBoy
+Stewardess, CHR, STE
+Tall Boy, CHR, TBoy
+The Howling Man, CHR, THE
+The Leader, CHR, TLeader
+The Wilcox Boy, CHR, THE
+Thelma Dunn, CHR, TDunn
+Theodore Marcuse, CHR, TMarcuse
+Trooper Bill Padgett, CHR, TRO
+Trooper Dan Perry, CHR, TRO
+Walter Smith, CHR, WSmith
+Wanda Dunn, CHR, WDunn
+Woman, CHR, WOM
+Young Martin, CHR, YMartin
+the Kanamits, CHR, tKanamits
