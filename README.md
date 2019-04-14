@@ -28,8 +28,10 @@ RG's publications were in 2016, 2018, 2019
     - I Scream, You Scream (Dec. 2015)
     - Irony (Dec. 2015)
     - The Job (Feb. 2019)
+    - Moon (Feb. 2018)
     - After Life (May 2018)
     - Mobster (Apr. 2018)
+    - Memoir (Feb. 2018)
 
 ## HAYLEY'S FINAL CATS FOR NER
     - ::CHR:FirstInitialLastName
