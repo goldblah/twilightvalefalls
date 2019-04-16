@@ -40,7 +40,7 @@ def epi_df(file):
 
     return whole_epi
 
-dir = "/volumes/Hayley's Drive/PycharmProjects/twilightvalefalls/gravityfalls/"
+dir = "/volumes/Hayley's Drive/PycharmProjects/twilightvalefalls/named_entities_all/"
 file = dir + 'A_Tale_of_Two_Stans.txt'
 
 ner_tagger = StanfordNERTagger(model, jar, encoding='utf8')
@@ -50,7 +50,7 @@ ner_file = dir + 'named_entities_gravity_falls.txt'
 with open(ner_file, 'r') as myfile:
     ner = myfile.read()
 
-#print(ner)
+print(ner)
 
 entities_pieces = []
 
@@ -73,7 +73,7 @@ print(final_entities)
 
 whole_epi = epi_df(file)
 
-#print(whole_epi.speaker.unique())
+print(whole_epi.speaker.unique())
 
 words = nltk.word_tokenize(ner)
 
