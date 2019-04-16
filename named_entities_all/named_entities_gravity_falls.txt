@@ -487,3 +487,160 @@ Real Man Jerky::MISC:FOOD
 Real people mentioned in Gravity Falls::CHR:RFalls
 Real places mentioned in Gravity Falls::LOC:Real places mentioned in Gravity Falls
 Redwood Highway::LOC:Redwood Highway
+Reggie's fiancée::CHR:Rfiancée
+Reggie::CHR:Reggie
+Reginald::CHR:Reginald
+Rich::CHR:Rich
+Rico::CHR:Rico
+Robbie V. and the Tombstones::ORG:Robbie V. and the Tombstones
+Robbie V.::CHR:RValentino
+Robbie Valentino::CHR:RValentino
+Robbie's van::MISC:VEH
+Rocket cart::MISC:VEH
+Romance Academy 7::MISC:GAME
+Rosanna::CHR:Rosanna
+Rumble McSkirmish::CrAn:Rumble McSkirmish
+S.S. Cool Dude::MISC:VEH
+Santiago::CHR:Santiago
+Sassica::CHR:Sassica
+Scarves Indoors::ORG:Scarves Indoors
+Scary Chub-Chub Man::CHR:EBratsman
+Scuttlebutt Island::LOC:Scuttlebutt Island
+Security droids::MISC:ELEC
+Sergei::CHR:Sergei
+Sev'ral Timez::CrAn:Sev'ral Timez
+Shacktron::LOC:Shacktron
+Shacktron::MISC:ELEC
+Shandra Jimenez::CHR:SJimenez
+Shape Shifter::CrAn:Shape Shifter
+Sheriff Blubs::CHR:SBlubs
+Sheriff Gideon::CHR:GGleeful
+Shimmery Twinkleheart::CrAn:Shimmery Twinkleheart
+Shmipper::CHR:Shmipper
+Shooting Star::CHR:MPines
+Shop Thrifty::LOC:Shop Thrifty
+Shred Pal::MISC:ELEC
+Sir Dippingsauce::CHR:DPines
+Sister Mary Hilda Miley::CrAn:Sister Mary Hilda Miley
+Six Fingers::CHR:FPines
+Sixer::CHR:FPines
+Skinny Jeans::CHR:RValentino
+Skull Fracture::LOC:Skull Fracture
+Smabble::CHR:Smabble
+Smarticle Accelerator::MISC:ELEC
+Smez::MISC:FOOD
+Smile Dip::MISC:FOOD
+Smoke bomb::MISC:MS
+Smokey Joe's All You Can Eat::LOC:Smokey Joe's All You Can Eat
+Soldier Kid::CHR:SKid
+Soos Ramirez::CHR:SRamirez
+Soos' cousins::CHR:Scousins
+Soos' pick-up truck::MISC:VEH
+Soos::CHR:SRamirez
+Speedy Beaver::MISC:VEH
+Sprott::CHR:Sprott
+Stan Bucks::MISC:MS
+Stan Pines::CHR:SPines
+Stan Vac::MISC:ELEC
+Stan balloon::MISC:VEH
+Stan's RV::MISC:VEH
+Stan's mindscape::LOC:Stan's mindscape
+Stanford Pines::CHR:SPines
+Stanmobile::MISC:VEH
+Stanowar::MISC:VEH
+Stañatas::MISC:GAME
+Stetson Pinefield::CHR:SPines
+Steve (human)::CHR:S(human)
+Steve Pinington::CHR:SPines
+Steve::CrAn:Steve
+Sticktionary::MISC:TEXT
+Stoic Monthly::MISC:TEXT
+Stretch::CHR:Stretch
+Stuffed Animal Tree::CrAn:Stuffed Animal Tree
+Stuffed creature of indeterminate species::MISC:GAME
+Succeeding In Management 1983::MISC:TEXT
+Sue::CHR:Sue
+Summerween Superstore worker::CHR:Sworker
+Summerween Superstore::LOC:Summerween Superstore
+Summerween Trickster::CrAn:Summerween Trickster
+Table Mabel::CHR:TMabel
+Tad Strange::CHR:TStrange
+Tambers::CHR:Tambry
+Tambry::CHR:Tambry
+Tapeman::MISC:ELEC
+Teenz Talk::MISC:TV
+Teeth::CrAn:Teeth
+Tent of Telepathy::LOC:Tent of Telepathy
+Tentacle Monster::CrAn:Tentacle Monster
+That Fat Guy::CHR:PGuy
+The Author::CHR:FPines
+The Beast With Just One Eye ::CHR:BCipher
+The Brown Meat::MISC:FOOD
+The Club::LOC:The Club
+The Crawlspace::LOC:The Crawlspace
+The Duchess Approves::MISC:TV
+The Fear Guy from Terror Town Street::MISC:TV
+The Hairless man::CHR:BBlandin
+The Horrifying Sweaty One-Armed Monstrosity::CrAn:The Horrifying Sweaty One-Armed Monstrosity
+The Juke Joint::LOC:The Juke Joint
+The Old One::CHR:SPines
+The One-Eyed Beast::CHR:BCipher
+The Plaidypus::CrAn:The Plaidypus
+The Plot Twist::MISC:TEXT
+The Programmer::CHR:GGleeful
+The Royal Order of the Holy Mackerel::ORG:The Royal Order of the Holy Mackerel
+The Royal Ragtime Theatre::LOC:The Royal Ragtime Theatre
+The Sibling Brothers::MISC:TEXT
+The Time Traveler Guy::CHR:BBlandin
+The Triangle Guy::CHR:BCipher
+The Undead::CrAn:The Undead
+The Voyages of Loinclothiclese::MISC:TV
+Theatre Time Theater::LOC:Theatre Time Theater
+Thing 26::CrAn:Thing 26
+Thompson's mini-van::MISC:VEH
+Tiger Fist::MISC:TV
+Time Anomaly Removal Crew::ORG:Time Anomaly Removal Crew
+Time Baby::CrAn:Time Baby
+Time Paradox Avoidance Enforcement Squadron::ORG:Time Paradox Avoidance Enforcement Squadron
+Time tape::MISC:FT
+Time wish::MISC:SN
+Toffee Peanuts::MISC:FOOD
+Tons grocery store::LOC:Tons grocery store
+Toot-Toot McBumbersnazzle::CHR:BIvan
+Town Hall::LOC:Town Hall
+Town square::LOC:Town square
+Trembley's Cove::LOC:Trembley's Cove
+Troll Boy::CHR:DPines
+Truth Telling Teeth::MISC:SN
+Tubby Tusk Root Beer::MISC:FOOD
+Tumbleweed Terror::CrAn:Tumbleweed Terror
+Tumbleweed Terror::MISC:SN
+Tyrone::CrAn:Tyrone
+USA Newz::MISC:TEXT
+Underground laboratory::LOC:Underground laboratory
+Unicorns::CrAn:Unicorns
+Universe portal::MISC:SN
+Upside-Down Town::LOC:Upside-Down Town
+Valentino Funeral Home::LOC:Valentino Funeral Home
+Vending machine::MISC:MS
+Voice-altering tonic::MISC:SN
+Wacky News::MISC:TEXT
+Waffle Guards::CrAn:Waffle Guards
+Wax Museum of Mystery::LOC:Wax Museum of Mystery
+Wax Stan::MISC:MS
+Wax figures::CrAn:Wax figures
+Wentworth residence::LOC:Wentworth residence
+What Could Go Wrong?: The Game::MISC:GAME
+What-the-heck-ahedron::MISC:GAME
+Whinny, Pray, Trot::MISC:TEXT
+Why Am I Sweaty?::MISC:TEXT
+Why You Ackin' So Cray-Cray?::MISC:TV
+Will E. Badger::MISC:ELEC
+Winninghouse Coupon Savers::ORG:Winninghouse Coupon Savers
+Wolfman Bare Chest::MISC:TEXT
+Wood Grain on Everything::ORG:Wood Grain on Everything
+World's Most Terrifying Skydiving::MISC:TV
+Ye Royal Discount Putt Hutt::LOC:Ye Royal Discount Putt Hutt
+Yumberjacks::LOC:Yumberjacks
+Zanthar::CrAn:Zanthar
+Zodiac::MISC:SN
