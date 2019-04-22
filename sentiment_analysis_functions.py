@@ -186,5 +186,3 @@ with open("/volumes/Hayley's Drive/PycharmProjects/twilightvalefalls/rstories/af
 saf = sentiment_analysis("/volumes/Hayley's Drive/PycharmProjects/twilightvalefalls/named_entities_all/rstories_ner.txt")
 
 story_blob = TextBlob(story.lower())
-
-saf.sentence_analysis(story_blob)
