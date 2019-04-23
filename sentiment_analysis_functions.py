@@ -102,7 +102,7 @@ class sentiment_analysis():
 
         bigrams = self.__ngram_analysis(2, story_blob)
 
-        sentences = self.__sentence_analysis(story_blob.sentences)
+        sentences = self.__sentence_analysis(story_blob)
 
         return bigrams, sentences
 
