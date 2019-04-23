@@ -179,14 +179,14 @@ class sentiment_analysis():
         })
 
         return (sentence_frame)
-import pandas as pd
-import textblob
-dir = "/volumes/Hayley's Drive/PycharmProjects/twilightvalefalls/"
-
-rstories = pd.read_csv(dir + 'rstories/rs_df.csv', sep='|', index_col=0)
-
-test = rstories['handled_text'][0]
-
-sa = sentiment_analysis(dir + 'named_entities_all/rstories_ner.txt')
-bf, sf = sa.story_analysis(test.lower())
+# import pandas as pd
+# import textblob
+# dir = "/volumes/Hayley's Drive/PycharmProjects/twilightvalefalls/"
+#
+# rstories = pd.read_csv(dir + 'rstories/rs_df.csv', sep='|', index_col=0)
+#
+# test = rstories['handled_text'][0]
+#
+# sa = sentiment_analysis(dir + 'named_entities_all/rstories_ner.txt')
+# bf, sf = sa.story_analysis(test.lower())
 
