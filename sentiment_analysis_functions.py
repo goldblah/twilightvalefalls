@@ -100,7 +100,7 @@ class sentiment_analysis():
 
         story_blob = self.textblob.TextBlob(story.lower(), tokenizer=wt)
 
-        bigrams = self.__ngrams_analysis(2, story_blob)
+        bigrams = self.__ngram_analysis(2, story_blob)
 
         sentences = self.__sentence_analysis(story_blob.sentences)
 
@@ -176,13 +176,3 @@ class sentiment_analysis():
         })
 
         return (sentence_frame)
-
-
-from textblob import TextBlob
-
-with open("/volumes/Hayley's Drive/PycharmProjects/twilightvalefalls/rstories/after_life.txt", 'r') as myfile:
-    story = myfile.read().replace('\n', ' ')
-
-saf = sentiment_analysis("/volumes/Hayley's Drive/PycharmProjects/twilightvalefalls/named_entities_all/rstories_ner.txt")
-
-story_blob = TextBlob(story.lower())
