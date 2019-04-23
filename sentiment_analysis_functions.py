@@ -82,7 +82,7 @@ class sentiment_analysis():
             fin.append(p)
         return fin
 
-    def story_analysis(self, story, word_info_output, sentence_output, noun_phrase_output):
+    def story_analysis(self, story):
         '''
         story_analysis uses textblob to run basic nlp sentiment analysis on a text file. The
         function returns 3 pandas dataframes containing some basic nlp information on the
