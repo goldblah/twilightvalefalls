@@ -150,8 +150,9 @@ class sentiment_analysis():
     def __sentence_analysis(self, tbObject):
         en_stop = set(self.nltk.corpus.stopwords.words('english'))
         print(type(tbObject))
-        sentences = tbObject
+        sentences = tbObject.sentences
         sentences = [str(j) for j in sentences]
+        print(sentences)
         subjectivity = []
         sentence_pos = []
         polarity = []
@@ -178,3 +179,14 @@ class sentiment_analysis():
         })
 
         return (sentence_frame)
+import pandas as pd
+import textblob
+dir = "/volumes/Hayley's Drive/PycharmProjects/twilightvalefalls/"
+
+rstories = pd.read_csv(dir + 'rstories/rs_df.csv', sep='|', index_col=0)
+
+test = rstories['handled_text'][0]
+
+sa = sentiment_analysis(dir + 'named_entities_all/rstories_ner.txt')
+bf, sf = sa.story_analysis(test.lower())
+
