@@ -149,7 +149,9 @@ class sentiment_analysis():
 
     def __sentence_analysis(self, tbObject):
         en_stop = set(self.nltk.corpus.stopwords.words('english'))
-        sentences = [str(j) for j in tbObject.sentences]
+        print(type(tbObject))
+        sentences = tbObject
+        sentences = [str(j) for j in sentences]
         subjectivity = []
         sentence_pos = []
         polarity = []
