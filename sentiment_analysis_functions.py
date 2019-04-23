@@ -37,7 +37,7 @@ class sentiment_analysis():
         for n in ner:
             self.ner_split.append(n.split(','))
 
-    def NER_fix(self, ne_list, text_list):
+    def __NER_fix(self, ne_list, text_list):
         fin = []
         for text in text_list:
             tags = self.nltk.pos_tag(self.nltk.word_tokenize(text))
@@ -65,7 +65,7 @@ class sentiment_analysis():
 
         return fin
 
-    def fix_pos_list(self, n_entity_li, pos_li):
+    def __fix_pos_list(self, n_entity_li, pos_li):
         names = [n[0].lower() for n in n_entity_li]
         fin = []
         for pos in pos_li:
@@ -81,6 +81,9 @@ class sentiment_analysis():
 
             fin.append(p)
         return fin
+
+    def pos_tagger(self, n_entity_li, text_list):
+        return self.__fix_pos_list(n_entity_li, self.__NER_fix(n_entity_li, text_list))
 
     def story_analysis(self, story):
         '''
@@ -124,8 +127,7 @@ class sentiment_analysis():
             polarity.append(self.textblob.TextBlob(i).polarity)
             subjectivity.append(self.textblob.TextBlob(i).subjectivity)
 
-        tagged_bigrams = self.NER_fix(self.ner_split, all_bigrams)
-        tagged_bigrams = self.fix_pos_list(self.ner_split, tagged_bigrams)
+        tagged_bigrams = self.pos_tagger(self.ner_split, all_bigrams)
         #print(tagged_bigrams)
 
         for j in tagged_bigrams:
@@ -161,8 +163,8 @@ class sentiment_analysis():
             polarity.append(self.textblob.TextBlob(s).polarity)
             subjectivity.append(self.textblob.TextBlob(s).subjectivity)
 
-        sentence_tags = self.NER_fix(self.ner_split, sentences)
-        sentence_tags = self.fix_pos_list(self.ner_split,sentence_tags)
+        sentence_tags = self.__NER_fix(self.ner_split, sentences)
+        sentence_tags = self.__fix_pos_list(self.ner_split,sentence_tags)
 
         for i in sentence_tags:
             temp = ''
