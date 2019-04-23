@@ -28,52 +28,45 @@ class lda:
 
         cc = self.saf.sentiment_analysis(ner_file)
 
-        annotated_list = list()
-
-        for k,i in enumerate(cc.pos_tagger(ner_split, list_epis)):
+        for k, i in enumerate(cc.pos_tagger(ner_split, list_epis)):
             story = list()
             for j in i:
                 story.append('/'.join(j))
-            annotated_list.append(' '.join(story))
 
+            f = open(corpus_dir + name_list[k] + '.txt', 'w+')
+            f.write(' '.join(story))
+            f.close()
 
+    def tokenize(self, text):
+        lda_tokens = []
+        tokens = parser(text)
+        for token in tokens:
+            if token.orth_.isspace():
+                continue
+            elif token.like_url:
+                lda_tokens.append('URL')
+            elif token.orth_.startswith('@'):
+                lda_tokens.append('SCREEN_NAME')
+            else:
+                lda_tokens.append(token.lower_)
+        return lda_tokens
 
-        f = open(file, 'w+')
-        f.write(story.replace('\t', '\n        '))
-        f.close()
+    def get_lemma(self, word):
+        lemma = wn.morphy(word)
+        if lemma is None:
+            return word
+        else:
+            return lemma
 
+    def get_lemma2(self, word):
+        return WordNetLemmatizer().lemmatize(word)
 
-
-    # def tokenize(self, text):
-    #     lda_tokens = []
-    #     tokens = parser(text)
-    #     for token in tokens:
-    #         if token.orth_.isspace():
-    #             continue
-    #         elif token.like_url:
-    #             lda_tokens.append('URL')
-    #         elif token.orth_.startswith('@'):
-    #             lda_tokens.append('SCREEN_NAME')
-    #         else:
-    #             lda_tokens.append(token.lower_)
-    #     return lda_tokens
-    #
-    # def get_lemma(self, word):
-    #     lemma = wn.morphy(word)
-    #     if lemma is None:
-    #         return word
-    #     else:
-    #         return lemma
-    #
-    # def get_lemma2(self, word):
-    #     return WordNetLemmatizer().lemmatize(word)
-    #
-    # def prepare_text_for_lda(self, text):
-    #     tokens = tokenize(text)
-    #     tokens = [token for token in tokens if len(token) > 4]
-    #     tokens = [token for token in tokens if token not in en_stop]
-    #     tokens = [get_lemma(token) for token in tokens]
-    #     return tokens
+    def prepare_text_for_lda(self, text):
+        tokens = tokenize(text)
+        tokens = [token for token in tokens if len(token) > 4]
+        tokens = [token for token in tokens if token not in en_stop]
+        tokens = [get_lemma(token) for token in tokens]
+        return tokens
 
 #     parser = English()
 #     nltk.download('stopwords')
@@ -122,6 +115,6 @@ dir = "/volumes/Hayley's Drive/PycharmProjects/twilightvalefalls/"
 
 rstories = pd.read_csv(dir + 'rstories/rs_df.csv', sep='|', index_col=0)
 
-lda.create_corpus(rstories['handled_text'], dir + 'named_entities_all/rstories_ner.txt')
+lda.create_corpus(rstories['title'],rstories['handled_text'], dir + 'named_entities_all/rstories_ner.txt', dir+'corpus/rstories/')
 
 
