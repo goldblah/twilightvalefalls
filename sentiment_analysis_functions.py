@@ -98,7 +98,7 @@ class sentiment_analysis():
 
         wt = self.WordTokenizer()
 
-        story_blob = self.textblob.TextBlob(story.lower(), tokenizer=wt)
+        story_blob = self.textblob.TextBlob(story.lower())
 
         bigrams = self.__ngram_analysis(2, story_blob)
 
