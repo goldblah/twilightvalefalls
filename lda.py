@@ -94,6 +94,8 @@ class lda:
         story_tokens = [token for token in story_tokens if token not in self.en_stop]
         story_tokens = [self.__get_lemma(token) for token in story_tokens]
 
+        print(story_tokens)
+
         return story_tokens
 
     def lda(self, num_topics, text):
@@ -154,15 +156,38 @@ wtnv = pd.read_csv(dir + 'wtnv_data/episode_prelim_clean.csv', sep='|', index_co
 tz = pd.read_csv(dir + 'twilightzone/tz_df.csv', sep='|', index_col=0)
 hhgtg = pd.read_csv(dir + 'hhgtg/hhgtg_df.csv', sep='|', index_col=0)
 
-rs_lda = lda(dir + 'named_entities_all/rstories_ner.txt')
-rs_lda.create_corpus(rstories['title'],rstories['handled_text'],  dir+'corpus/rstories/')
+"""
+Already created corpora for all but hhgtg
+"""
 
+# print('starting r')
+# rs_lda = lda(dir + 'named_entities_all/rstories_ner.txt')
+# rs_lda.create_corpus(rstories['title'],rstories['handled_text'],  dir+'corpus/rstories/')
+# print('finishing r')
+#
+# print('starting gf')
 gf_lda = lda(dir + 'named_entities_all/gravity_falls_ner.txt')
-gf_lda.create_corpus(gf['title'], gf['handled_text'], dir+'corpus/gravityfalls/')
+# gf_lda.create_corpus(gf['title'], gf['handled_text'], dir+'corpus/gravityfalls/')
+# print('finished gf')
+#
+# print('starting wtnv')
+# wtnv_lda = lda(dir + 'named_entities_all/wtnv_ner.txt')
+# wtnv_lda.create_corpus(wtnv['episode_name'], wtnv['text'], dir + 'corpus/wtnv/')
+# print('finished wtnv')
 
-wtnv_lda = lda(dir + 'named_entities_all/wtnv_ner.txt')
-wtnvlda.create_corpus(wtnv['episode_name'], wtnv['text'], dir + 'corpus/wtnv/')
+# print('starting tz')
+# tz_lda = lda(dir + 'named_entities_all/named_entity_tz.txt')
+# tz_lda.create_corpus(tz['Title'], tz['Text'], dir + 'corpus/twilightzone/')
+# print('finished tzwtnv')
 
-corpus = TaggedCorpusReader("/volumes/Hayley's Drive/PycharmProjects/twilightvalefalls/corpus/rstories", fileids=rstories['title'])
+"""
+NEED TO RERUN AFTER NER FIX
+print('starting hhgtg')
+hhgtg_lda = lda(dir + 'named_entities_all/named_entity_hhgttg.txt')
+hhgtg_lda.create_corpus(hhgtg['Title'], hhgtg['Text'], dir + 'corpus/twilightzone/')
+print('finished hhgtg')
+"""
 
-lda.hayleys_lda_prep([rstories['handled_text'][0]])
+corpus = TaggedCorpusReader("/volumes/Hayley's Drive/PycharmProjects/twilightvalefalls/corpus/gravityfalls", fileids=gf['title'])
+gf_lda.set_corpus(gf['title'], "/volumes/Hayley's Drive/PycharmProjects/twilightvalefalls/corpus/gravityfalls")
+gf_lda.hayleys_lda_prep([gf['handled_text'][0]])

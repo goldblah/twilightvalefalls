@@ -337,6 +337,7 @@ Love potions, MISC, SN
 MAB-3L, LOC, MAB-3L
 Ma Duskerton, CHR, MDuskerton
 Ma and Pa Duskerton, CrAn, Ma and Pa Duskerton
+Mabel, CHR, MPines
 Mabel Pines, CHR, MPines
 Mabel juice, MISC, FOOD
 Mabel's grappling hook, MISC, MS
