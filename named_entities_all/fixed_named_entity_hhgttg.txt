@@ -1,0 +1,117 @@
+Admiral, CHR, ZBeeblebrox
+Ape Man, CHR, ADent
+Arcturan MegaDonkey, CrAn, RACES
+Arcturus, CrAn, RACES
+Arthur Dent, CHR, ADent
+Arthur Dent's House, LOC, Arthur Dent's House
+Azgoth, CrAn, RACES
+Babel Fish, CrAn, RACES
+Bang Bang, CHR, BBang
+Barman, CHR, BAR
+Benjy, CHR, BEN
+Betelgeuse V, LOC, Betelgeuse V
+Betelgeuse VII, LOC, Betelgeuse VII
+Betelgeusian, CrAn, RACES
+Bethselamin, LOC, Bethselamin
+Blagulon Kappa, CrAn, RACES
+Blagulon Kappa, LOC, Blagulon Kappa
+Blagulon Kappa Policecraft, MISC, VEH
+Bowl of Petunias, CHR, BOW
+Brantisvogan, LOC, Brantisvogan
+Celestial Home Care Omnibus, MISC, TEXT
+Chimp Man, CHR, ADent
+Cruxwan University, LOC, Cruxwan University
+Damogran, LOC, Damogran
+Damogran Frond Crested Eagle, CrAn, RACES
+Dangrabad Beta, LOC, Dangrabad Beta
+Deep Thought, CHR, DThought
+Dentrassi, CrAn, RACES
+Digital Watch, MISC, ELEC
+Dolphin, CrAn, RACES
+Dumb Dumb, CHR, ADent
+Dumb Space Cookie, CHR, FPrefect
+Earth, LOC, Earth
+Earthman, CHR, ADent
+Eccentrica Gallumbits, CHR, EGallumbits
+Eddie the Computer, CHR, EDD
+Electronic Thumb, MISC, ELEC
+Emperor of the Galaxy, CHR, EMP
+Encyclopedia Galactica, MISC, TEXT
+Eroticon VI, LOC, Eroticon VI
+Fallia, LOC, Fallia
+Fenchurch, CHR, FEN
+Fifty More Things to do in Zero Gravity, MISC, TEXT
+Fook, CHR, FOO
+Ford Prefect, CHR, FPrefect
+Four-Eyes, CHR, ZBeeblebrox
+Frankie, CHR, FRA
+G'Gugvuntts, CrAn, RACES
+Genghis Khan, CHR, GKhan
+God, CHR, GOD
+Googleplex Star Thinker, CHR, GOO
+Grunthos the Flatulent, CHR, GRU
+Guildford, LOC, Guildford
+Heart of Gold, MISC, VEH
+Hooloovoo, CrAn, RACES
+Horse and Groom, LOC, Horse and Groom
+Human, CrAn, RACES
+Hyperspace, MISC, Hyperspace
+Infinite Improbability Drive, MISC, ELEC
+Ix, CHR, FPrefect
+Jaglan Beta, LOC, Jaglan Beta
+Kakrafoon Kappa, LOC, Kakrafoon Kappa
+Kill-o-Zap Gun, MISC, ELEC
+Kria, LOC, Kria
+Loonquawl, CHR, LOO
+Lunkwill, CHR, LUN
+Magrathea, LOC, Magrathea
+Magrathean, CrAn, RACES
+Majikthise, CHR, MAJ
+Marvin, CHR, MAR
+Milliard Gargantubrain, CHR, MGargantubrain
+Monkey, CHR, ADent
+Monkey Man, CHR, ADent
+Mouse, CrAn, RACES
+Mr Prosser, CHR, MProsser
+Multicorticoid Perspicutron Titan Muller, CHR, MUL
+My Favourite Bathtime Gurgles, MISC, TEXT
+Norway, LOC, Norway
+Nutri-Matic Drink Synthesizer, MISC, ELEC
+Oolon Colluphid, CHR, OColluphid
+Paula Nancy Millstone Jennings, CHR, PAU
+Phouchg, CHR, PHO
+Poghril, CrAn, RACES
+Poghril, LOC, Poghril
+Pondermatic, CHR, PON
+Primate, CHR, ADent
+Prostetnic Vogon Jeltz, CHR, PRO
+Ravenous Bugblatter Beast of Traal, CrAn, RACES
+Santraginus V, LOC, Santraginus V
+Scintillating Jeweled Scuttling Crab, CrAn, RACES
+Semi-Evolved Simian, CHR, ADent
+Seventh Galaxy of Light and Ingenuity, LOC, Seventh Galaxy of Light and Ingenuity
+Shooty, CHR, SHO
+Slartibartfast, CHR, SLA
+Some More of God's Greatest Mistakes, MISC, TEXT
+Sperm Whale, CrAn, RACES
+Squornshellous Zeta, LOC, Squornshellous Zeta
+Sub-Etha Sens-O-Matic, MISC, ELEC
+The Big Z, CHR, ZBeeblebrox
+The Hitchhiker's Guide to the Galaxy, MISC, TEXT
+Towel, MISC, Towel
+Traal, LOC, Traal
+Trillian Astra, CHR, TAstra
+University of Maximegalon, LOC, University of Maximegalon
+Veet Voojagig, CHR, VVoojagig
+Veet Voojagig's Story, MISC, TEXT
+Vegan Rhino, CrAn, RACES
+Vl'hurgs, CrAn, RACES
+Vogon, CrAn, RACES
+Vogon Constructor Fleet, MISC, VEH
+Vogsphere, LOC, Vogsphere
+Vroomfondel, CHR, VRO
+Well That About Wraps It Up For God, MISC, TEXT
+Whale, CHR, WHA
+Where God Went Wrong, MISC, TEXT
+Yooden Vranx, CHR, YVranx
+Zaphod Beeblebrox, CHR, ZBeeblebrox
