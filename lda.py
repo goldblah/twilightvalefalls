@@ -2,44 +2,52 @@ class lda:
 
     import spacy
     spacy.load('en')
+    import nltk
     from spacy.lang.en import English
     import sentiment_analysis_functions as saf
     from nltk.corpus import wordnet as wn
+    from  nltk.corpus.reader import TaggedCorpusReader
     from gensim import corpora
     import pickle
     import gensim
     from nltk.stem.wordnet import WordNetLemmatizer
     import pyLDAvis.gensim
 
-    # def __init__(self):
-    #     """
-    #     DOOOOOOOOO SOMETHING HERE
-    #
-    #     """
+    def __init__(self, ner_file):
+        """
+        DOOOOOOOOO SOMETHING HERE
 
-    def create_corpus(self, name_list, list_epis, ner_file, corpus_dir):
+        """
+        self.nltk.download('stopwords')
+        self.en_stop = set(self.nltk.corpus.stopwords.words('english'))
+        self.parser = self.English()
+        self.cc = self.saf.sentiment_analysis(ner_file)
 
         with open(ner_file, 'r', encoding="utf-8") as myfile:
             ner = myfile.read().split('\n')
 
-        ner_split = list()
+        self.ner_split = list()
         for n in ner:
-            ner_split.append(n.split(','))
+            self.ner_split.append(n.split(','))
 
-        cc = self.saf.sentiment_analysis(ner_file)
+    def set_corpus(self, fileids, file_path):
+        self.corpus = TaggedCorpusReader(file_path, fileids=fileids)
 
-        for k, i in enumerate(cc.pos_tagger(ner_split, list_epis)):
+
+    def create_corpus(self, name_list, list_epis, corpus_dir):
+
+        for k, i in enumerate(self.cc.pos_tagger(self.ner_split, list_epis)):
             story = list()
             for j in i:
                 story.append('/'.join(j))
 
-            f = open(corpus_dir + name_list[k] + '.txt', 'w+')
+            f = open(corpus_dir + name_list[k].replace(' ','_').replace('/','') + '.txt', 'w+')
             f.write(' '.join(story))
             f.close()
 
-    def tokenize(self, text):
+    def __tokenize(self, text):
         lda_tokens = []
-        tokens = parser(text)
+        tokens = self.parser(text)
         for token in tokens:
             if token.orth_.isspace():
                 continue
@@ -51,27 +59,54 @@ class lda:
                 lda_tokens.append(token.lower_)
         return lda_tokens
 
-    def get_lemma(self, word):
-        lemma = wn.morphy(word)
+    def __get_lemma(self, word):
+        lemma = self.wn.morphy(word)
         if lemma is None:
             return word
         else:
             return lemma
 
-    def get_lemma2(self, word):
-        return WordNetLemmatizer().lemmatize(word)
+    def __get_lemma2(self, word):
+        return self.WordNetLemmatizer().lemmatize(word)
 
     def prepare_text_for_lda(self, text):
-        tokens = tokenize(text)
+        tokens = self.__tokenize(text)
         tokens = [token for token in tokens if len(token) > 4]
-        tokens = [token for token in tokens if token not in en_stop]
-        tokens = [get_lemma(token) for token in tokens]
+        tokens = [token for token in tokens if token not in self.en_stop]
+        tokens = [self.__get_lemma(token) for token in tokens]
         return tokens
 
-#     parser = English()
-#     nltk.download('stopwords')
-#     en_stop = set(nltk.corpus.stopwords.words('english'))
-#
+    def hayleys_lda_prep(self, text):
+        '''
+        Preps a single story for lda analysis
+        :param text: a single story list to pass to a tokenizer
+        :return: a correctly tokenized story based on the named entity recognition
+        '''
+
+        bits = self.cc.pos_tagger(self.ner_split, text)
+
+        story_tokens = []
+        for i in bits:
+            for j in i:
+                story_tokens.append(j[0])
+
+        story_tokens = [token for token in story_tokens if len(token) > 4]
+        story_tokens = [token for token in story_tokens if token not in self.en_stop]
+        story_tokens = [self.__get_lemma(token) for token in story_tokens]
+
+        return story_tokens
+
+    def lda(self, num_topics, text):
+        tokens = self.hayleys_lda_prep(text)
+        dictionary = self.corpora.Dictionary(tokens)
+
+        if self.corpus is None:
+            corpus = [dictionary.doc2bow(text) for text in tokens]
+
+        return self.gensim.models.ldamodel.LdaModel(corpus, num_topics=num_topics, id2word=dictionary, passes=15)
+
+
+
 # stories_train['tokens'] = [prepare_text_for_lda(srvr), prepare_text_for_lda(the_job),
 #                      prepare_text_for_lda(after_life), prepare_text_for_lda(yrg),
 #                      prepare_text_for_lda(moon)]
@@ -110,11 +145,24 @@ class lda:
 
 import pandas as pd
 import os
-lda = lda()
+from  nltk.corpus.reader import TaggedCorpusReader
+
 dir = "/volumes/Hayley's Drive/PycharmProjects/twilightvalefalls/"
-
 rstories = pd.read_csv(dir + 'rstories/rs_df.csv', sep='|', index_col=0)
+gf = pd.read_csv(dir + 'gravityfalls/gf_eps.csv', sep='|', index_col=0)
+wtnv = pd.read_csv(dir + 'wtnv_data/episode_prelim_clean.csv', sep='|', index_col=0)
+tz = pd.read_csv(dir + 'twilightzone/tz_df.csv', sep='|', index_col=0)
+hhgtg = pd.read_csv(dir + 'hhgtg/hhgtg_df.csv', sep='|', index_col=0)
 
-lda.create_corpus(rstories['title'],rstories['handled_text'], dir + 'named_entities_all/rstories_ner.txt', dir+'corpus/rstories/')
+rs_lda = lda(dir + 'named_entities_all/rstories_ner.txt')
+rs_lda.create_corpus(rstories['title'],rstories['handled_text'],  dir+'corpus/rstories/')
 
+gf_lda = lda(dir + 'named_entities_all/gravity_falls_ner.txt')
+gf_lda.create_corpus(gf['title'], gf['handled_text'], dir+'corpus/gravityfalls/')
 
+wtnv_lda = lda(dir + 'named_entities_all/wtnv_ner.txt')
+wtnvlda.create_corpus(wtnv['episode_name'], wtnv['text'], dir + 'corpus/wtnv/')
+
+corpus = TaggedCorpusReader("/volumes/Hayley's Drive/PycharmProjects/twilightvalefalls/corpus/rstories", fileids=rstories['title'])
+
+lda.hayleys_lda_prep([rstories['handled_text'][0]])
