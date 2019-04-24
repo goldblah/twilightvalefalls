@@ -73,7 +73,7 @@ class lda:
         tokens = self.__tokenize(text)
         tokens = [token for token in tokens if len(token) > 4]
         tokens = [token for token in tokens if token not in self.en_stop]
-        tokens = [self.__get_lemma(token) for token in tokens]
+        tokens = [self.__get_lemma2(token) for token in tokens]
         return tokens
 
     def hayleys_lda_prep(self, text):
@@ -109,42 +109,6 @@ class lda:
 
 
 
-# stories_train['tokens'] = [prepare_text_for_lda(srvr), prepare_text_for_lda(the_job),
-#                      prepare_text_for_lda(after_life), prepare_text_for_lda(yrg),
-#                      prepare_text_for_lda(moon)]
-#
-# stories_test['tokens'] = [prepare_text_for_lda(mobster), prepare_text_for_lda(memoir)]
-#
-# dictionary = corpora.Dictionary(stories_train['tokens'])
-# corpus = [dictionary.doc2bow(text) for text in stories_train.tokens]
-#
-# pickle.dump(corpus, open('corpus.pkl', 'wb'))
-# dictionary.save('dictionary.gensim')
-# print(dictionary)
-#
-# NUM_TOPICS = 3
-# ldamodel = gensim.models.ldamodel.LdaModel(corpus, num_topics = NUM_TOPICS,
-#                                            id2word=dictionary, passes=15)
-# ldamodel.save('model3.gensim')
-# topics = ldamodel.print_topics(num_words=4)
-# for topic in topics:
-#     print(topic)
-#
-# test_bow1 = dictionary.doc2bow(stories_test.tokens[0])
-# print(test_bow1)
-# print(ldamodel.get_document_topics(test_bow1))
-#
-# test_bow2 = dictionary.doc2bow(stories_test.tokens[1])
-# print(test_bow2)
-# print(ldamodel.get_document_topics(test_bow2))
-#
-# dictionary = gensim.corpora.Dictionary.load('dictionary.gensim')
-# corpus = pickle.load(open('corpus.pkl', 'rb'))
-# lda = gensim.models.ldamodel.LdaModel.load('model3.gensim')
-#
-# lda_display = pyLDAvis.gensim.prepare(lda, corpus, dictionary, sort_topics=False)
-# pyLDAvis.display(lda_display)
-
 import pandas as pd
 import os
 from  nltk.corpus.reader import TaggedCorpusReader
@@ -161,10 +125,10 @@ hhgtg = pd.read_csv(dir + 'hhgtg/hhgtg_df.csv', sep='|', index_col=0)
 # rs_lda.create_corpus(rstories['title'],rstories['handled_text'],  dir+'corpus/rstories/')
 # print('finishing r')
 
-print('starting gf')
-gf_lda = lda(dir + 'named_entities_all/gravity_falls_ner.txt')
-gf_lda.create_corpus(gf['title'], gf['handled_text'], dir+'corpus/gravityfalls/')
-print('finished gf')
+# print('starting gf')
+# gf_lda = lda(dir + 'named_entities_all/gravity_falls_ner.txt')
+# gf_lda.create_corpus(gf['title'], gf['handled_text'], dir+'corpus/gravityfalls/')
+# print('finished gf')
 
 # print('starting wtnv')
 # wtnv_lda = lda(dir + 'named_entities_all/wtnv_ner.txt')
