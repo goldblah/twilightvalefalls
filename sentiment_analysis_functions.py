@@ -51,10 +51,11 @@ class sentiment_analysis():
                             indices = []
                             indices.append(i)
                             for k in range(1, len(toks)):
-                                if tags[i + k][0] not in toks:
-                                    break
-                                else:
-                                    indices.append(i + k)
+                                if i+k < length:
+                                    if tags[i + k][0] not in toks:
+                                        break
+                                    else:
+                                        indices.append(i + k)
                             if len(indices) == len(toks):
                                 indices.reverse()
                                 for j in indices:
