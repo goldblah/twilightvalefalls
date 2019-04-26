@@ -120,6 +120,13 @@ wtnv = pd.read_csv(dir + 'wtnv_data/episode_prelim_clean.csv', sep='|', index_co
 tz = pd.read_csv(dir + 'twilightzone/tz_df.csv', sep='|', index_col=0)
 hhgtg = pd.read_csv(dir + 'hhgtg/hhgtg_df.csv', sep='|', index_col=0)
 
+# filenames = ['named_entities_all/fixed_named_entity_hhgttg.txt', 'named_entities_all/gravity_falls_ner.txt',
+#              'named_entities_all/named_entity_tz.txt', 'named_entities_all/wtnv_ner.txt']
+# with open(dir + 'named_entities_all/combined_ner.txt', 'w') as outfile:
+#     for fname in filenames:
+#         with open(dir + fname) as infile:
+#             outfile.write(infile.read())
+
 # print('starting r')
 # rs_lda = lda(dir + 'named_entities_all/rstories_ner.txt')
 # rs_lda.create_corpus(rstories['title'],rstories['handled_text'],  dir+'corpus/rstories/')
