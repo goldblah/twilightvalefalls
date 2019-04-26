@@ -5,8 +5,8 @@ import re
 #import pymagic
 import sys
 
-jar =  "/volumes/Hayley's Drive/PycharmProjects/twilightvalefalls/stanford-ner-tagger/stanford-ner.jar"
-model = "/volumes/Hayley's Drive/PycharmProjects/twilightvalefalls/stanford-ner-tagger/test_gravity_falls_ner.ser.gz"
+# jar =  "/volumes/Hayley's Drive/PycharmProjects/twilightvalefalls/stanford-ner-tagger/stanford-ner.jar"
+# model = "/volumes/Hayley's Drive/PycharmProjects/twilightvalefalls/stanford-ner-tagger/test_gravity_falls_ner.ser.gz"
 
 def epi_df(file):
     with open(file, 'r') as myfile:
@@ -40,48 +40,48 @@ def epi_df(file):
 
     return whole_epi
 
-dir = "/volumes/Hayley's Drive/PycharmProjects/twilightvalefalls/named_entities_all/"
-file = dir + 'A_Tale_of_Two_Stans.txt'
-
-ner_tagger = StanfordNERTagger(model, jar, encoding='utf8')
-
-ner_file = dir + 'named_entities_gravity_falls.txt'
-
-with open(ner_file, 'r') as myfile:
-    ner = myfile.read()
-
-print(ner)
-
-entities_pieces = []
-
-for n in ner.split('\n'):
-    entities_pieces.append(n.split('::'))
-
-final_entities = []
-
-for e in entities_pieces:
-    if len(e) > 1 and 'list' not in e[0].lower():
-        temp_list = []
-        temp_list.append(e[0])
-        tags = e[1].split(':')
-        for t in tags:
-            temp_list.append(t)
-        final_entities.append(temp_list)
-
-print(final_entities)
-
-
-whole_epi = epi_df(file)
-
-print(whole_epi.speaker.unique())
-
-words = nltk.word_tokenize(ner)
-
-f = open(dir + 'gravity_falls_ner.txt', 'w+')
-for w in final_entities:
-    f.writelines(', '.join(w))
-    f.write('\n')
-f.close()
+# dir = "/volumes/Hayley's Drive/PycharmProjects/twilightvalefalls/named_entities_all/"
+# file = dir + 'A_Tale_of_Two_Stans.txt'
+#
+# ner_tagger = StanfordNERTagger(model, jar, encoding='utf8')
+#
+# ner_file = dir + 'named_entities_gravity_falls.txt'
+#
+# with open(ner_file, 'r') as myfile:
+#     ner = myfile.read()
+#
+# print(ner)
+#
+# entities_pieces = []
+#
+# for n in ner.split('\n'):
+#     entities_pieces.append(n.split('::'))
+#
+# final_entities = []
+#
+# for e in entities_pieces:
+#     if len(e) > 1 and 'list' not in e[0].lower():
+#         temp_list = []
+#         temp_list.append(e[0])
+#         tags = e[1].split(':')
+#         for t in tags:
+#             temp_list.append(t)
+#         final_entities.append(temp_list)
+#
+# print(final_entities)
+#
+#
+# whole_epi = epi_df(file)
+#
+# print(whole_epi.speaker.unique())
+#
+# words = nltk.word_tokenize(ner)
+#
+# f = open(dir + 'gravity_falls_ner.txt', 'w+')
+# for w in final_entities:
+#     f.writelines(', '.join(w))
+#     f.write('\n')
+# f.close()
 
 #print(ner_tagger.tag(words))
 
