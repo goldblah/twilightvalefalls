@@ -8,11 +8,11 @@ import sys
 # jar =  "/volumes/Hayley's Drive/PycharmProjects/twilightvalefalls/stanford-ner-tagger/stanford-ner.jar"
 # model = "/volumes/Hayley's Drive/PycharmProjects/twilightvalefalls/stanford-ner-tagger/test_gravity_falls_ner.ser.gz"
 
-def epi_df(file):
-    with open(file, 'r') as myfile:
-        story = myfile.read().replace('\n\n', '\n')
-
-    raw_story = r'' + story
+def epi_df(story):
+    # with open(file, 'r') as myfile:
+    #     story = myfile.read().replace('\n\n', '\n')
+    #
+    # raw_story = r'' + story
 
     matches = re.finditer(r'(([\w ]*\:\s)([\w \.\,\'\-\?\!\(\)\:\"\;]*)\n)', raw_story)
 
