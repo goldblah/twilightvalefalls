@@ -39,30 +39,32 @@ class sentiment_analysis():
 
     def __NER_fix(self, ne_list, text_list):
         fin = []
-        for text in text_list:
-            tags = self.nltk.pos_tag(self.nltk.word_tokenize(text))
-            for name in ne_list:
-                n = name[0].lower()
-                if n in text:
-                    toks = self.nltk.word_tokenize(n)
-                    for t in tags:
-                        i = tags.index(t)
-                        if t[0] in toks:
-                            indices = []
-                            indices.append(i)
-                            for k in range(1, len(toks)):
-                                if i+k < len(toks):
-                                    if tags[i + k][0] not in toks:
-                                        break
-                                    else:
-                                        indices.append(i + k)
-                            if len(indices) == len(toks):
-                                indices.reverse()
-                                for j in indices:
-                                    del tags[j]
-                                tags.insert(indices[-1], (n, 'NNP'))
+        for x, text in enumerate(text_list):
+            print(x, text)
+            if not text == 'nan':
+                tags = self.nltk.pos_tag(self.nltk.word_tokenize(text))
+                for name in ne_list:
+                    n = name[0].lower()
+                    if n in text:
+                        toks = self.nltk.word_tokenize(n)
+                        for t in tags:
+                            i = tags.index(t)
+                            if t[0] in toks:
+                                indices = []
+                                indices.append(i)
+                                for k in range(1, len(toks)):
+                                    if i+k < len(toks):
+                                        if tags[i + k][0] not in toks:
+                                            break
+                                        else:
+                                            indices.append(i + k)
+                                if len(indices) == len(toks):
+                                    indices.reverse()
+                                    for j in indices:
+                                        del tags[j]
+                                    tags.insert(indices[-1], (n, 'NNP'))
 
-            fin.append(tags)
+                fin.append(tags)
 
         return fin
 

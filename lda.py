@@ -35,8 +35,11 @@ class lda:
 
 
     def create_corpus(self, name_list, list_epis, corpus_dir):
+        print('inside corpus')
 
         for k, i in enumerate(self.cc.pos_tagger(self.ner_split, list_epis)):
+
+            print(name_list[k])
             story = list()
             for j in i:
                 story.append('/'.join(j))
@@ -116,7 +119,7 @@ from  nltk.corpus.reader import TaggedCorpusReader
 dir = "/volumes/Hayley's Drive/PycharmProjects/twilightvalefalls/"
 rstories = pd.read_csv(dir + 'rstories/rs_df.csv', sep='|', index_col=0)
 gf = pd.read_csv(dir + 'gravityfalls/gf_eps.csv', sep='|', index_col=0)
-wtnv = pd.read_csv(dir + 'wtnv_data/episode_prelim_clean.csv', sep='|', index_col=0)
+wtnv = pd.read_csv(dir + 'wtnv_final.csv', sep='|').drop([94, 95], axis=0)
 tz = pd.read_csv(dir + 'twilightzone/tz_df.csv', sep='|', index_col=0)
 hhgtg = pd.read_csv(dir + 'hhgtg/hhgtg_df.csv', sep='|', index_col=0)
 
@@ -126,6 +129,34 @@ hhgtg = pd.read_csv(dir + 'hhgtg/hhgtg_df.csv', sep='|', index_col=0)
 #     for fname in filenames:
 #         with open(dir + fname) as infile:
 #             outfile.write(infile.read())
+print('starting combined corpus creation')
+clda = lda(dir + 'named_entities_all/combined_ner.txt')
+fileids = []
+
+for title in gf['title']:
+    #print('gf_'+title)
+    fileids.append('gf_' + title.replace(' ','_').replace('/',''))
+#clda.create_corpus(temp,gf['handled_text'],  dir+'corpus/combined/')
+
+for title in hhgtg['Title']:
+    #print('hhgtg_'+title)
+    fileids.append('hhgtg_' + title.replace(' ','_').replace('/',''))
+#clda.create_corpus(temp,hhgtg['Text'],  dir+'corpus/combined/')
+
+for title in tz['Title']:
+    #print('tz_'+title)
+    fileids.append('tz_' + title.replace(' ','_').replace('/',''))
+#clda.create_corpus(temp,tz['Text'],  dir+'corpus/combined/')
+
+for title in wtnv['Title']:
+    print('wtnv_'+title)
+    fileids.append('wtnv_' + title.replace(' ','_').replace('/',''))
+#clda.create_corpus(temp, wtnv['Text'],  dir+'corpus/combined/')
+
+with open(dir + 'corpus/combined_fileids.txt', 'w') as f:
+    for item in fileids:
+        f.write("%s\n" % item)
+print('ending combined corpus creation')
 
 # print('starting r')
 # rs_lda = lda(dir + 'named_entities_all/rstories_ner.txt')
