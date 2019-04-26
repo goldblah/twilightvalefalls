@@ -19,6 +19,7 @@ def epi_df(story):
     dialogue = []
 
     for m in matches:
+        print(m)
         dialogue.append(m[0].replace('\n', ''))
 
     speaker = []
