@@ -153,6 +153,8 @@ for title in wtnv['Title']:
     fileids.append('wtnv_' + title.replace(' ','_').replace('/',''))
 #clda.create_corpus(temp, wtnv['Text'],  dir+'corpus/combined/')
 
+fileids.sort()
+
 with open(dir + 'corpus/combined_fileids.txt', 'w') as f:
     for item in fileids:
         f.write("%s\n" % item)
