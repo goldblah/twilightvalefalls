@@ -14,7 +14,7 @@ def epi_df(story):
     #
     # raw_story = r'' + story
 
-    matches = re.finditer(r'(([\w ]*\:\s)([\w \.\,\'\-\?\!\(\)\:\"\;]*)\n)', raw_story)
+    matches = re.finditer(r'(([\w ]*\:\s)([\w \.\,\'\-\?\!\(\)\:\"\;]*)\n)', story)
 
     dialogue = []
 
