@@ -78,7 +78,10 @@ class sentiment_analysis():
                 for ne in names:
                     if n == ne.lower():
                         new_tag = n_entity_li[names.index(ne)]
-                        t = (ne, 'NE' + '::' + new_tag[1].strip() + ':' + new_tag[2].strip())
+                        if len(new_tag) == 3:
+                            t = (ne, 'NE' + '::' + new_tag[1].strip() + ':' + new_tag[2].strip())
+                        else:
+                            t = (ne, 'NE' + '::' + new_tag[1].strip())
                 p.append(t)
 
             fin.append(p)
@@ -130,7 +133,7 @@ class sentiment_analysis():
             subjectivity.append(self.textblob.TextBlob(i).subjectivity)
 
         tagged_bigrams = self.pos_tagger(self.ner_split, all_bigrams)
-        #print(tagged_bigrams)
+        print(tagged_bigrams)
 
         for j in tagged_bigrams:
             if not len(j) == 2:
@@ -167,6 +170,7 @@ class sentiment_analysis():
 
         sentence_tags = self.__NER_fix(self.ner_split, sentences)
         sentence_tags = self.__fix_pos_list(self.ner_split,sentence_tags)
+        print(sentence_tags)
 
         for i in sentence_tags:
             temp = ''
