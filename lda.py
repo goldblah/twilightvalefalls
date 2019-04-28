@@ -97,12 +97,13 @@ class lda:
         story_tokens = [token for token in story_tokens if token not in self.en_stop]
         story_tokens = [self.__get_lemma(token) for token in story_tokens]
 
-        print(story_tokens)
-
         return story_tokens
 
-    def lda(self, num_topics, text):
-        tokens = self.hayleys_lda_prep(text)
+    def lda(self, num_topics, text_list):
+        tokens = []
+        for i, t in enumerate(text_list):
+            print(i)
+            tokens.append(self.hayleys_lda_prep([t]))
         dictionary = self.corpora.Dictionary(tokens)
 
         if self.corpus is None:
@@ -118,10 +119,12 @@ from  nltk.corpus.reader import TaggedCorpusReader
 
 dir = "/volumes/Hayley's Drive/PycharmProjects/twilightvalefalls/"
 rstories = pd.read_csv(dir + 'rstories/rs_df.csv', sep='|', index_col=0)
-gf = pd.read_csv(dir + 'gravityfalls/gf_eps.csv', sep='|', index_col=0)
+gf = pd.read_csv(dir + 'gravityfalls/gf_eps.csv', sep='|', index_col=0).drop('text', axis=1).rename(index=str, columns={'source':'Source', 'title':'Title', 'date':'Date', 'handled_text':'Text'})
 wtnv = pd.read_csv(dir + 'wtnv_final.csv', sep='|').drop([94, 95], axis=0)
 tz = pd.read_csv(dir + 'twilightzone/tz_df.csv', sep='|', index_col=0)
 hhgtg = pd.read_csv(dir + 'hhgtg/hhgtg_df.csv', sep='|', index_col=0)
+
+train = pd.concat(objs=[gf, hhgtg, tz, wtnv])
 
 # filenames = ['named_entities_all/fixed_named_entity_hhgttg.txt', 'named_entities_all/gravity_falls_ner.txt',
 #              'named_entities_all/named_entity_tz.txt', 'named_entities_all/wtnv_ner.txt']
@@ -129,36 +132,36 @@ hhgtg = pd.read_csv(dir + 'hhgtg/hhgtg_df.csv', sep='|', index_col=0)
 #     for fname in filenames:
 #         with open(dir + fname) as infile:
 #             outfile.write(infile.read())
-print('starting combined corpus creation')
-clda = lda(dir + 'named_entities_all/combined_ner.txt')
-fileids = []
-
-for title in gf['title']:
-    #print('gf_'+title)
-    fileids.append('gf_' + title.replace(' ','_').replace('/',''))
-#clda.create_corpus(temp,gf['handled_text'],  dir+'corpus/combined/')
-
-for title in hhgtg['Title']:
-    #print('hhgtg_'+title)
-    fileids.append('hhgtg_' + title.replace(' ','_').replace('/',''))
-#clda.create_corpus(temp,hhgtg['Text'],  dir+'corpus/combined/')
-
-for title in tz['Title']:
-    #print('tz_'+title)
-    fileids.append('tz_' + title.replace(' ','_').replace('/',''))
-#clda.create_corpus(temp,tz['Text'],  dir+'corpus/combined/')
-
-for title in wtnv['Title']:
-    print('wtnv_'+title)
-    fileids.append('wtnv_' + title.replace(' ','_').replace('/',''))
-#clda.create_corpus(temp, wtnv['Text'],  dir+'corpus/combined/')
-
-fileids.sort()
-
-with open(dir + 'corpus/combined_fileids.txt', 'w') as f:
-    for item in fileids:
-        f.write("%s\n" % item)
-print('ending combined corpus creation')
+# print('starting combined corpus creation')
+# clda = lda(dir + 'named_entities_all/combined_ner.txt')
+# fileids = []
+#
+# for title in gf['title']:
+#     #print('gf_'+title)
+#     fileids.append('gf_' + title.replace(' ','_').replace('/',''))
+# #clda.create_corpus(temp,gf['handled_text'],  dir+'corpus/combined/')
+#
+# for title in hhgtg['Title']:
+#     #print('hhgtg_'+title)
+#     fileids.append('hhgtg_' + title.replace(' ','_').replace('/',''))
+# #clda.create_corpus(temp,hhgtg['Text'],  dir+'corpus/combined/')
+#
+# for title in tz['Title']:
+#     #print('tz_'+title)
+#     fileids.append('tz_' + title.replace(' ','_').replace('/',''))
+# #clda.create_corpus(temp,tz['Text'],  dir+'corpus/combined/')
+#
+# for title in wtnv['Title']:
+#     print('wtnv_'+title)
+#     fileids.append('wtnv_' + title.replace(' ','_').replace('/',''))
+# #clda.create_corpus(temp, wtnv['Text'],  dir+'corpus/combined/')
+#
+# fileids.sort()
+#
+# with open(dir + 'corpus/combined_fileids.txt', 'w') as f:
+#     for item in fileids:
+#         f.write("%s\n" % item)
+# print('ending combined corpus creation')
 
 # print('starting r')
 # rs_lda = lda(dir + 'named_entities_all/rstories_ner.txt')
@@ -185,6 +188,12 @@ print('ending combined corpus creation')
 # hhgtg_lda.create_corpus(hhgtg['Title'], hhgtg['Text'], dir + 'corpus/hhgtg/')
 # print('finished hhgtg')
 
-# corpus = TaggedCorpusReader("/volumes/Hayley's Drive/PycharmProjects/twilightvalefalls/corpus/gravityfalls", fileids=gf['title'])
-# gf_lda.set_corpus(gf['title'], "/volumes/Hayley's Drive/PycharmProjects/twilightvalefalls/corpus/gravityfalls")
-# gf_lda.hayleys_lda_prep([gf['handled_text'][0]])
+test_lda = lda(dir + 'named_entities_all/combined_ner.txt')
+with open(dir + 'corpus/combined_fileids.txt', 'r', encoding='utf-8') as myfile:
+    fileids = myfile.read().split('\n')
+test_lda.set_corpus(fileids, "/volumes/Hayley's Drive/PycharmProjects/twilightvalefalls/corpus/combined")
+#test_lda.hayleys_lda_prep([gf['handled_text'][0]])
+
+ldamodel = test_lda.lda(num_topics=4, text_list=list(train['Text']))
+
+ldamodel.save('model4.gensim')

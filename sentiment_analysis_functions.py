@@ -40,7 +40,6 @@ class sentiment_analysis():
     def __NER_fix(self, ne_list, text_list):
         fin = []
         for x, text in enumerate(text_list):
-            print(x, text)
             if not text == 'nan':
                 tags = self.nltk.pos_tag(self.nltk.word_tokenize(text))
                 for name in ne_list:
