@@ -1,3 +1,0 @@
-txt files are old - do not use
-csv is the full set of episodes, result of the end to end full scrape and clean
-cleaning is preliminary - more work will be done, but it's clean enough to start nlp work on (hopefully)
