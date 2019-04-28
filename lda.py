@@ -107,9 +107,9 @@ class lda:
         dictionary = self.corpora.Dictionary(tokens)
 
         if self.corpus is None:
-            corpus = [dictionary.doc2bow(text) for text in tokens]
+            self.corpus = [dictionary.doc2bow(text) for text in tokens]
 
-        return self.gensim.models.ldamodel.LdaModel(corpus, num_topics=num_topics, id2word=dictionary, passes=15)
+        return self.gensim.models.ldamodel.LdaModel(self.corpus, num_topics=num_topics, id2word=dictionary, passes=15)
 
 
 
@@ -120,7 +120,8 @@ from  nltk.corpus.reader import TaggedCorpusReader
 dir = "/volumes/Hayley's Drive/PycharmProjects/twilightvalefalls/"
 rstories = pd.read_csv(dir + 'rstories/rs_df.csv', sep='|', index_col=0)
 gf = pd.read_csv(dir + 'gravityfalls/gf_eps.csv', sep='|', index_col=0).drop('text', axis=1).rename(index=str, columns={'source':'Source', 'title':'Title', 'date':'Date', 'handled_text':'Text'})
-wtnv = pd.read_csv(dir + 'wtnv_final.csv', sep='|').drop([94, 95], axis=0)
+wtnv = pd.read_csv(dir + 'wtnv_final.csv', sep='|')
+print(wtnv['Text'][94])
 tz = pd.read_csv(dir + 'twilightzone/tz_df.csv', sep='|', index_col=0)
 hhgtg = pd.read_csv(dir + 'hhgtg/hhgtg_df.csv', sep='|', index_col=0)
 
@@ -173,10 +174,10 @@ train = pd.concat(objs=[gf, hhgtg, tz, wtnv])
 # gf_lda.create_corpus(gf['title'], gf['handled_text'], dir+'corpus/gravityfalls/')
 # print('finished gf')
 
-# print('starting wtnv')
-# wtnv_lda = lda(dir + 'named_entities_all/wtnv_ner.txt')
-# wtnv_lda.create_corpus(wtnv['episode_name'], wtnv['text'], dir + 'corpus/wtnv/')
-# print('finished wtnv')
+print('starting wtnv')
+wtnv_lda = lda(dir + 'named_entities_all/wtnv_ner.txt')
+wtnv_lda.create_corpus(wtnv['Title'], wtnv['Text'], dir + 'corpus/wtnv/')
+print('finished wtnv')
 
 # print('starting tz')
 # tz_lda = lda(dir + 'named_entities_all/named_entity_tz.txt')
