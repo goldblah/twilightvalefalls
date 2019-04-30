@@ -85,7 +85,8 @@ def correct(mistakes):
     for error in mistakes:
         if (error[1][0][1] >= 0.85) and (error[0] in misses):
             fixes.append((error[0],error[1][0][0]))
-            misses.remove(error[0])
+            if error[0] in misses:
+                misses.remove(error[0])
         elif (error[0] in misses):
             word = error[0]
             alphabet = ['q','w','e','r','t','y','u','i','o','p','a','s','d','f','g','h','j','k','l','z','x','c','v','b',
@@ -97,13 +98,15 @@ def correct(mistakes):
                 sug_1 = suggest(w1)
                 if (sug_1[0][0] == w1) and (sug_1[0][1] >= 0.85):
                     fixes.append((word,w1))
-                    misses.remove(word)
+                    if word in misses:
+                        misses.remove(word)
                     break;
                     
                 sug_2 = suggest(w2)
                 if (sug_2[0][0] == w2) and (sug_2[0][1] >= 0.85):
                     fixes.append((word,w2))
-                    misses.remove(word)
+                    if word in misses:
+                        misses.remove(word)
                     break;
                     
             if word in misses:
@@ -121,7 +124,8 @@ def correct(mistakes):
                                 dists.append(similar(word,sug[0][0]))
                         if len(dists) > 0:
                             fixes.append((word,poss[dists.index(min(dists))]))
-                            misses.remove(word)
+                            if word in misses:
+                                    misses.remove(word)
                         
             if word in misses:
                 for i in range(1,len(word)):
@@ -133,7 +137,8 @@ def correct(mistakes):
                             sugs_e = suggest(e)
                             if (sugs_e[0][1] == 1.0) and (sugs_e[0][0] == e):
                                 fixes.append((word,sugs_s[0][0]+' '+sugs_e[0][0]))
-                                misses.remove(word)
+                                if word in misses:
+                                    misses.remove(word)
                                 
     #if len(fixes) > 3:
      #   print(fixes)
