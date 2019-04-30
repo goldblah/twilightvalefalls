@@ -440,7 +440,7 @@ def hidden_markov(texts,length,max_order,how_tokenize='sentence',reps_tries=1000
     t,pos = text_to_POS(texts)
     li = markov(pos,length,max_order,how_tokenize,reps_tries,cutoff,clean=False)
     
-    full_text_toks = word_tokenize(' '.join(texts))
+    full_text_toks = word_tokenize(' '.join(t))
     all_pos = ' '.join(pos).split(' ')
     
     pos_to_words_dict = {}
