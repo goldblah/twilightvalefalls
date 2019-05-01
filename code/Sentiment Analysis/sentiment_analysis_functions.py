@@ -40,10 +40,12 @@ class sentiment_analysis():
     def __NER_fix(self, ne_list, text_list):
         fin = []
         for x, text in enumerate(text_list):
+            print('inside NER fix')
             if not text == 'nan':
                 tags = self.nltk.pos_tag(self.nltk.word_tokenize(text))
-                for name in ne_list:
+                for i, name in enumerate(ne_list):
                     n = name[0].lower()
+                    print(i)
                     if n in text:
                         toks = self.nltk.word_tokenize(n)
                         for t in tags:
@@ -62,12 +64,13 @@ class sentiment_analysis():
                                     for j in indices:
                                         del tags[j]
                                     tags.insert(indices[-1], (n, 'NNP'))
-
+                print(tags)
                 fin.append(tags)
 
         return fin
 
     def __fix_pos_list(self, n_entity_li, pos_li):
+        print('inside pos list')
         names = [n[0].lower() for n in n_entity_li]
         fin = []
         for pos in pos_li:
@@ -83,11 +86,12 @@ class sentiment_analysis():
                         else:
                             t = (ne, 'NE' + '::' + new_tag[1].strip())
                 p.append(t)
-
+            print(p)
             fin.append(p)
         return fin
 
     def pos_tagger(self, n_entity_li, text_list):
+        print('inside function call')
         return self.__fix_pos_list(n_entity_li, self.__NER_fix(n_entity_li, text_list))
 
     def story_analysis(self, story):
